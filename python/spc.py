@@ -52,16 +52,23 @@ res = requests.get(url=searchUrl, headers=request_header, params=search_params)
 # print(res)
 # print(res.json())
 
+## the following creates a file with results. Not necessary, but sometimes I prefer
+## looking at a file instead of termina  printout
 # with open('playlists.json', 'w') as playlists:
 #     json.dump(res.json(), playlists)
 
+## printing one result for evaluation
 # print(res.json()['playlists']['items'][0]['id'])
 
-playlists_items={}
 
 # exit()
+
 # exit above prevents this from running, however keeping this so possible to do playlist search or something similar
 # playlistId = res.json()['playlists']['items'][0]['id']
+
+# create dictionary to store results 
+playlists_items={}
+
 playlists = res.json()['playlists']['items']
 
 for playlist in playlists:
@@ -85,8 +92,6 @@ for playlist in playlists:
         song_release_date = song['track']['album']["release_date"] 
         # one way
         # if song['track']['album']["artists"] != []
-           
-
         # better way
         
         if len(song['track']['album']["artists"]) > 0:
@@ -104,7 +109,6 @@ for playlist in playlists:
 
         playlists_items[song_id] = current_entry
 
-
         # playlists_items[current_entry]
         print(f'song added date is: {song_added} song name is: {song_name} song id is: {song_id}')
 
@@ -121,7 +125,10 @@ df = pd.DataFrame(list(playlists_items.values()))
 df.head()
 df.to_csv('hip_hop_list.csv', index=False)
 
+
+## saving the following code even though it is not needed.
 # exit()
+
 # # playlistUrl = 'https://open.spotify.com/playlist/6MOrRQeuTjbebAQW9xhfsc?si=JgzgWwQ-S5Os07ELi736pw'
 # playlistUrl = f"https://api.spotify.com/v1/playlists/{playlistId}"
 # # request_header = {
