@@ -200,7 +200,7 @@
                 $elie.css({ '-moz-transform': 'rotate(' + degree + 'deg)'});                      
                 timer = setTimeout(function() {
                     ++degree; rotate();
-                },5);
+                },20);
             }
             
             $("#vinyl").toggle(function() {
@@ -208,6 +208,8 @@
             }, function() {
                 rotate();
             });
+
+            // rotate();
         }); 
     </script>
   </body>
