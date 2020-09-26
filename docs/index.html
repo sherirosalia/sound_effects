@@ -49,6 +49,7 @@
                         <div class="col-md-2"></div>
                         <div class="col-md-8">
                             <figure>
+                                
                                 <img class="img-fluid figure-image mx-auto d-block" id='vinyl' src="images/record.png" alt="vinyl">
                                 <figcaption class="figure-caption">Let the music play on!</figcaption>
                             </figure>
@@ -96,7 +97,7 @@
                 <div class="col-md-2"></div>
                 <div class="col-md-8">
                     <figure>
-                        <img class="img-fluid figure-image mx-auto d-block" id='vinyl' src="images/spotify_api.png" alt="vinyl">
+                        <img class="img-fluid figure-image mx-auto d-block" id='code' src="images/spotify_api.png" alt="spotify api">
                         <figcaption class="figure-caption">Authentication</figcaption>
                     </figure>
 
@@ -136,7 +137,7 @@
                     <div class="col-md-2"></div>
                     <div class="col-md-8">
                         <figure>
-                            <img class="img-fluid figure-image mx-auto d-block" id='vinyl' src="images/json_playlist_response.png" alt="vinyl">
+                            <img class="img-fluid figure-image mx-auto d-block" id='code' src="images/json_playlist_response.png" alt="json response">
                             <figcaption class="figure-caption">JSON response snippet</figcaption>
                         </figure>
     
@@ -187,6 +188,28 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script>
+
+        $(function() {
+            var $elie = $("#vinyl"), degree = 0, timer;
+            rotate();
+            function rotate() {
+                
+                $elie.css({ WebkitTransform: 'rotate(' + degree + 'deg)'});  
+                $elie.css({ '-moz-transform': 'rotate(' + degree + 'deg)'});                      
+                timer = setTimeout(function() {
+                    ++degree; rotate();
+                },5);
+            }
+            
+            $("#vinyl").toggle(function() {
+                clearTimeout(timer);
+            }, function() {
+                rotate();
+            });
+        }); 
+    </script>
   </body>
 </html>
 

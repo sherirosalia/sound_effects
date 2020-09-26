@@ -43,7 +43,7 @@ request_header = {
 
 
 search_params = {
-    'q':'"hip hop romance"',
+    'q':'"country romance"',
     'type':'playlist',
     'limit':'50',
 }
@@ -79,10 +79,12 @@ for playlist in playlists:
     playlistUrl = f"https://api.spotify.com/v1/playlists/{playlistId}"
     
     pl_results = requests.get(url=playlistUrl, headers=request_header)
+    # print(pl_results.json())
+    # exit()
 
     # songs = pl_results.json()['tracks']['items']
     # for song in songs:
-    
+
     ## shorter -->
     for song in pl_results.json()['tracks']['items']:
         song_added = song["added_at"]
@@ -108,7 +110,8 @@ for playlist in playlists:
 
 
         playlists_items[song_id] = current_entry
-
+        # print(playlists_items[song_id])
+        # exit()
         # playlists_items[current_entry]
         print(f'song added date is: {song_added} song name is: {song_name} song id is: {song_id}')
 

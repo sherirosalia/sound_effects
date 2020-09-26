@@ -1,2272 +1,882 @@
 {
     "playlists": {
-        "href": "https://api.spotify.com/v1/search?query=%22country+romance%22&type=playlist&offset=0&limit=50",
+        "href": "https://api.spotify.com/v1/search?query=%22hip+hop+romance%22&type=playlist&offset=0&limit=50",
         "items": [
             {
                 "collaborative": false,
-                "description": "",
+                "description": "Hip-Hop Rap Romanesc. Grasu XXL, Guess Who, B.U.G. Mafia, Parazitii, Mitză, Junky Zice, Spike, Tranda, Maximilan, Zhao, Nane. <a href=\"https://www.facebook.com/sharer/sharer.php?u=https://open.spotify.com/playlist/6gQkP3EowPiQfW8nK5iNBZ\">Share it</a>!",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/0I0x18iiKq9Q2THPsycoLG"
+                    "spotify": "https://open.spotify.com/playlist/6gQkP3EowPiQfW8nK5iNBZ"
                 },
-                "href": "https://api.spotify.com/v1/playlists/0I0x18iiKq9Q2THPsycoLG",
-                "id": "0I0x18iiKq9Q2THPsycoLG",
+                "href": "https://api.spotify.com/v1/playlists/6gQkP3EowPiQfW8nK5iNBZ",
+                "id": "6gQkP3EowPiQfW8nK5iNBZ",
                 "images": [
                     {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2736d421288755d35ec41a82a1cab67616d0000b27376d60544ce48f85e729abb1cab67616d0000b273b210ae955aeea30e0fa97434ab67616d0000b273de2b6ae73697b2da4d3e9c27",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2736d421288755d35ec41a82a1cab67616d0000b27376d60544ce48f85e729abb1cab67616d0000b273b210ae955aeea30e0fa97434ab67616d0000b273de2b6ae73697b2da4d3e9c27",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2736d421288755d35ec41a82a1cab67616d0000b27376d60544ce48f85e729abb1cab67616d0000b273b210ae955aeea30e0fa97434ab67616d0000b273de2b6ae73697b2da4d3e9c27",
-                        "width": 60
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706c0000bebb74b16e631dc47c8591964c95",
+                        "width": null
                     }
                 ],
-                "name": "Country Romance",
+                "name": "Hip-Hop Romanesc",
                 "owner": {
-                    "display_name": "Stacey Lee Errico",
+                    "display_name": "Digster Romania",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/1244067801"
+                        "spotify": "https://open.spotify.com/user/getmusicro"
                     },
-                    "href": "https://api.spotify.com/v1/users/1244067801",
-                    "id": "1244067801",
+                    "href": "https://api.spotify.com/v1/users/getmusicro",
+                    "id": "getmusicro",
                     "type": "user",
-                    "uri": "spotify:user:1244067801"
+                    "uri": "spotify:user:getmusicro"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "MTA2LDU3NDRiODM2YzM0NzExY2VlMDY0NWMyYThkNTBjMjQ0MGRlM2U5NGY=",
+                "snapshot_id": "MzE5LGQ0NWExOWFiYjE5ZDE3MzRkMWFjZTI5ZTM1Y2NmNWVhYWEwM2UxOTk=",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/0I0x18iiKq9Q2THPsycoLG/tracks",
-                    "total": 141
+                    "href": "https://api.spotify.com/v1/playlists/6gQkP3EowPiQfW8nK5iNBZ/tracks",
+                    "total": 65
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:0I0x18iiKq9Q2THPsycoLG"
+                "uri": "spotify:playlist:6gQkP3EowPiQfW8nK5iNBZ"
             },
             {
                 "collaborative": false,
-                "description": "",
+                "description": "All the best classics pop songs - Old school hip hop and Party Trap Music mixed with muse &amp; greenday",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/4Hfj8X7IEHGINMpOoWZYgv"
+                    "spotify": "https://open.spotify.com/playlist/4jintmPcuPpC92YVtQwgUF"
                 },
-                "href": "https://api.spotify.com/v1/playlists/4Hfj8X7IEHGINMpOoWZYgv",
-                "id": "4Hfj8X7IEHGINMpOoWZYgv",
+                "href": "https://api.spotify.com/v1/playlists/4jintmPcuPpC92YVtQwgUF",
+                "id": "4jintmPcuPpC92YVtQwgUF",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27322a8fefd2696917c8767df7aab67616d0000b2736217585c07b7417999f03d92ab67616d0000b27391a13e5dabb67943835192e7ab67616d0000b273e4ed191be04ba0e4253c77f4",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273073ed3ab18f697a4c622c152ab67616d0000b2730e8e68837c2abf72e0e82b8dab67616d0000b27312e45e4be59926cd79d1dedeab67616d0000b2739039f66f1118e025383a8038",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27322a8fefd2696917c8767df7aab67616d0000b2736217585c07b7417999f03d92ab67616d0000b27391a13e5dabb67943835192e7ab67616d0000b273e4ed191be04ba0e4253c77f4",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273073ed3ab18f697a4c622c152ab67616d0000b2730e8e68837c2abf72e0e82b8dab67616d0000b27312e45e4be59926cd79d1dedeab67616d0000b2739039f66f1118e025383a8038",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27322a8fefd2696917c8767df7aab67616d0000b2736217585c07b7417999f03d92ab67616d0000b27391a13e5dabb67943835192e7ab67616d0000b273e4ed191be04ba0e4253c77f4",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273073ed3ab18f697a4c622c152ab67616d0000b2730e8e68837c2abf72e0e82b8dab67616d0000b27312e45e4be59926cd79d1dedeab67616d0000b2739039f66f1118e025383a8038",
                         "width": 60
                     }
                 ],
-                "name": "Country Romance Slow",
+                "name": "Trap/Hip Hop/Romance/Muse - Greenday",
                 "owner": {
-                    "display_name": "Terri Blake",
+                    "display_name": "Pedram Delalat",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/1264304865"
+                        "spotify": "https://open.spotify.com/user/119111235"
                     },
-                    "href": "https://api.spotify.com/v1/users/1264304865",
-                    "id": "1264304865",
+                    "href": "https://api.spotify.com/v1/users/119111235",
+                    "id": "119111235",
                     "type": "user",
-                    "uri": "spotify:user:1264304865"
+                    "uri": "spotify:user:119111235"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "MTk4LDQxYTkyNmMyMjQ2N2RiMjA2NzdkNDk2NDIyNjA2ZWQwYmNhM2Q0NDE=",
+                "snapshot_id": "ODE0LDFiODcyM2VkMDczOTRmMDZmYzJlZmVmNmZkMWJiOGNhMTIxZWYyZDA=",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/4Hfj8X7IEHGINMpOoWZYgv/tracks",
-                    "total": 83
+                    "href": "https://api.spotify.com/v1/playlists/4jintmPcuPpC92YVtQwgUF/tracks",
+                    "total": 598
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:4Hfj8X7IEHGINMpOoWZYgv"
+                "uri": "spotify:playlist:4jintmPcuPpC92YVtQwgUF"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/2cBXTCc1I41V0Jdy9nJSEu"
+                    "spotify": "https://open.spotify.com/playlist/5bG0O5MS6RcyR6QqqOuN8z"
                 },
-                "href": "https://api.spotify.com/v1/playlists/2cBXTCc1I41V0Jdy9nJSEu",
-                "id": "2cBXTCc1I41V0Jdy9nJSEu",
+                "href": "https://api.spotify.com/v1/playlists/5bG0O5MS6RcyR6QqqOuN8z",
+                "id": "5bG0O5MS6RcyR6QqqOuN8z",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27316fce2616744168b30462991ab67616d0000b2735632a2e4b72b9df78ed9b9e2ab67616d0000b2736bb10067c6145b1a5e2cef6eab67616d0000b273969a3beb58231bd144388367",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730fa8dc696bebc14ad4d2b7bbab67616d0000b27317721e49495e9a13d3d6f40fab67616d0000b273c42212db6d665fab0c51d495ab67616d0000b273e5963d52a775dcc96369dee2",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27316fce2616744168b30462991ab67616d0000b2735632a2e4b72b9df78ed9b9e2ab67616d0000b2736bb10067c6145b1a5e2cef6eab67616d0000b273969a3beb58231bd144388367",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730fa8dc696bebc14ad4d2b7bbab67616d0000b27317721e49495e9a13d3d6f40fab67616d0000b273c42212db6d665fab0c51d495ab67616d0000b273e5963d52a775dcc96369dee2",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27316fce2616744168b30462991ab67616d0000b2735632a2e4b72b9df78ed9b9e2ab67616d0000b2736bb10067c6145b1a5e2cef6eab67616d0000b273969a3beb58231bd144388367",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730fa8dc696bebc14ad4d2b7bbab67616d0000b27317721e49495e9a13d3d6f40fab67616d0000b273c42212db6d665fab0c51d495ab67616d0000b273e5963d52a775dcc96369dee2",
                         "width": 60
                     }
                 ],
-                "name": "Sweet Country Romance",
+                "name": "Hip Hop Romance",
                 "owner": {
-                    "display_name": "aieljs",
+                    "display_name": "lara.be",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/aieljs"
+                        "spotify": "https://open.spotify.com/user/lara.be"
                     },
-                    "href": "https://api.spotify.com/v1/users/aieljs",
-                    "id": "aieljs",
+                    "href": "https://api.spotify.com/v1/users/lara.be",
+                    "id": "lara.be",
                     "type": "user",
-                    "uri": "spotify:user:aieljs"
+                    "uri": "spotify:user:lara.be"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "MjEsZDRhYzg4YTEyNzkxMzdkNWQ4M2EzOTYyNzhjOGQ1MmQ3MTc3N2FhMg==",
+                "snapshot_id": "NTAsN2Q2MDUwNzcxOTJjYjBjNDNlZjg1ZDYyNTk0YTM3N2ZiNDUyY2M4Mw==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/2cBXTCc1I41V0Jdy9nJSEu/tracks",
-                    "total": 203
+                    "href": "https://api.spotify.com/v1/playlists/5bG0O5MS6RcyR6QqqOuN8z/tracks",
+                    "total": 48
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:2cBXTCc1I41V0Jdy9nJSEu"
-            },
-            {
-                "collaborative": false,
-                "description": "If ya&#x27;ll are intrested in having the more updated version of this playlist follow Cody. Go to my following section and follow my other account.  This playlist is perfect for laying down with your significant other talking about life while you two cuddle with this playlist going on in the background.",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/78rN7CKB47HIfIwRmh00Or"
-                },
-                "href": "https://api.spotify.com/v1/playlists/78rN7CKB47HIfIwRmh00Or",
-                "id": "78rN7CKB47HIfIwRmh00Or",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273835eac21a1158e54eecd6260ab67616d0000b2738366b1a764950417a0fd9ad7ab67616d0000b273af59ec72e3ee76bbf38e9495ab67616d0000b273c7ee084acfc2d7ca0b112b5c",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273835eac21a1158e54eecd6260ab67616d0000b2738366b1a764950417a0fd9ad7ab67616d0000b273af59ec72e3ee76bbf38e9495ab67616d0000b273c7ee084acfc2d7ca0b112b5c",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273835eac21a1158e54eecd6260ab67616d0000b2738366b1a764950417a0fd9ad7ab67616d0000b273af59ec72e3ee76bbf38e9495ab67616d0000b273c7ee084acfc2d7ca0b112b5c",
-                        "width": 60
-                    }
-                ],
-                "name": "Relax/Romance Country",
-                "owner": {
-                    "display_name": "fishboyz6734",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/fishboyz6734"
-                    },
-                    "href": "https://api.spotify.com/v1/users/fishboyz6734",
-                    "id": "fishboyz6734",
-                    "type": "user",
-                    "uri": "spotify:user:fishboyz6734"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MzI3LGU3NDJkZDE2MDBkNzU4ZWMzOGU1YjRmYWE1M2UyMWMxMmRlZWZmM2U=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/78rN7CKB47HIfIwRmh00Or/tracks",
-                    "total": 131
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:78rN7CKB47HIfIwRmh00Or"
+                "uri": "spotify:playlist:5bG0O5MS6RcyR6QqqOuN8z"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/2AQhNwY0KvJsG8ifPTYh1J"
+                    "spotify": "https://open.spotify.com/playlist/2uvnkfaaafqKsojDmaNxuZ"
                 },
-                "href": "https://api.spotify.com/v1/playlists/2AQhNwY0KvJsG8ifPTYh1J",
-                "id": "2AQhNwY0KvJsG8ifPTYh1J",
+                "href": "https://api.spotify.com/v1/playlists/2uvnkfaaafqKsojDmaNxuZ",
+                "id": "2uvnkfaaafqKsojDmaNxuZ",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731ba5682505dd6e2592b16e41ab67616d0000b27335af7e5302d1c849b4e70e73ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273c1dfda1b94b3db5bcdeabf0d",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733138f891f3075c9c5d944037ab67616d0000b273617c314e94693fad9a26f798ab67616d0000b273a117ac19ee51aebdf05fe88cab67616d0000b273c5649add07ed3720be9d5526",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731ba5682505dd6e2592b16e41ab67616d0000b27335af7e5302d1c849b4e70e73ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273c1dfda1b94b3db5bcdeabf0d",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733138f891f3075c9c5d944037ab67616d0000b273617c314e94693fad9a26f798ab67616d0000b273a117ac19ee51aebdf05fe88cab67616d0000b273c5649add07ed3720be9d5526",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731ba5682505dd6e2592b16e41ab67616d0000b27335af7e5302d1c849b4e70e73ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273c1dfda1b94b3db5bcdeabf0d",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733138f891f3075c9c5d944037ab67616d0000b273617c314e94693fad9a26f798ab67616d0000b273a117ac19ee51aebdf05fe88cab67616d0000b273c5649add07ed3720be9d5526",
                         "width": 60
                     }
                 ],
-                "name": "country romance",
+                "name": "hip HOP romance",
                 "owner": {
-                    "display_name": "Francesca Moxley",
+                    "display_name": "Dave",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/21xzb6t36vepz5s36knrm3aja"
+                        "spotify": "https://open.spotify.com/user/6wok4bnlibob4dfwm3dak3b1o"
                     },
-                    "href": "https://api.spotify.com/v1/users/21xzb6t36vepz5s36knrm3aja",
-                    "id": "21xzb6t36vepz5s36knrm3aja",
+                    "href": "https://api.spotify.com/v1/users/6wok4bnlibob4dfwm3dak3b1o",
+                    "id": "6wok4bnlibob4dfwm3dak3b1o",
                     "type": "user",
-                    "uri": "spotify:user:21xzb6t36vepz5s36knrm3aja"
+                    "uri": "spotify:user:6wok4bnlibob4dfwm3dak3b1o"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "MTgzLGJiY2U4YzUzODJiOWVlMDYyM2YzYTUwNmM2MjgzNjBhOWNkZWNjNTg=",
+                "snapshot_id": "MTMsZjQyNGRlMjVjNTM3MjdiOTFjMjk3ZTc2NmFmNTkwZWRkNjgyYjMyMQ==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/2AQhNwY0KvJsG8ifPTYh1J/tracks",
-                    "total": 182
+                    "href": "https://api.spotify.com/v1/playlists/2uvnkfaaafqKsojDmaNxuZ/tracks",
+                    "total": 11
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:2AQhNwY0KvJsG8ifPTYh1J"
+                "uri": "spotify:playlist:2uvnkfaaafqKsojDmaNxuZ"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/7MONT32ZslBQoUMf7xMVJX"
+                    "spotify": "https://open.spotify.com/playlist/4pD72v6WkVcrLsUHH2kDtR"
                 },
-                "href": "https://api.spotify.com/v1/playlists/7MONT32ZslBQoUMf7xMVJX",
-                "id": "7MONT32ZslBQoUMf7xMVJX",
+                "href": "https://api.spotify.com/v1/playlists/4pD72v6WkVcrLsUHH2kDtR",
+                "id": "4pD72v6WkVcrLsUHH2kDtR",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273429d8ec28f865acf2a927c2dab67616d0000b2735a38bd36056b909ed607689dab67616d0000b273ccba76fad1c624c09e72bc78ab67616d0000b273f9f2dda2df2a695b9bad3440",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273389e18edc9def13467a5b723ab67616d0000b273936eb3202c1d483a53f3cafdab67616d0000b273ab6a53f8ab5efc3fd5b8360fab67616d0000b273d8b8208b2a82af143adcc0bf",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273429d8ec28f865acf2a927c2dab67616d0000b2735a38bd36056b909ed607689dab67616d0000b273ccba76fad1c624c09e72bc78ab67616d0000b273f9f2dda2df2a695b9bad3440",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273389e18edc9def13467a5b723ab67616d0000b273936eb3202c1d483a53f3cafdab67616d0000b273ab6a53f8ab5efc3fd5b8360fab67616d0000b273d8b8208b2a82af143adcc0bf",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273429d8ec28f865acf2a927c2dab67616d0000b2735a38bd36056b909ed607689dab67616d0000b273ccba76fad1c624c09e72bc78ab67616d0000b273f9f2dda2df2a695b9bad3440",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273389e18edc9def13467a5b723ab67616d0000b273936eb3202c1d483a53f3cafdab67616d0000b273ab6a53f8ab5efc3fd5b8360fab67616d0000b273d8b8208b2a82af143adcc0bf",
                         "width": 60
                     }
                 ],
-                "name": "country romance 🌾",
+                "name": "Hip-Hop,Rap,Romance",
                 "owner": {
-                    "display_name": "dpinzone23",
+                    "display_name": "William Pimentel",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/dpinzone23"
+                        "spotify": "https://open.spotify.com/user/williampimentelrs"
                     },
-                    "href": "https://api.spotify.com/v1/users/dpinzone23",
-                    "id": "dpinzone23",
+                    "href": "https://api.spotify.com/v1/users/williampimentelrs",
+                    "id": "williampimentelrs",
                     "type": "user",
-                    "uri": "spotify:user:dpinzone23"
+                    "uri": "spotify:user:williampimentelrs"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "MzUsMGNmODA1YzhiM2VhNGI0ZDgyOTQ0OGYyNTAwNGU2YjdmMWNmM2ZjYw==",
+                "snapshot_id": "MzMsMWM5ZGEyYzMxYTIzMmQwYThmYzYzYTJmMGMzMGMxNmJiMjA0ODVmZQ==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/7MONT32ZslBQoUMf7xMVJX/tracks",
-                    "total": 28
+                    "href": "https://api.spotify.com/v1/playlists/4pD72v6WkVcrLsUHH2kDtR/tracks",
+                    "total": 30
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:7MONT32ZslBQoUMf7xMVJX"
+                "uri": "spotify:playlist:4pD72v6WkVcrLsUHH2kDtR"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/6FYxvYq9Mx1ndvf6qFBOsf"
+                    "spotify": "https://open.spotify.com/playlist/3qHUL9Qz3OlHnxmpmExcHd"
                 },
-                "href": "https://api.spotify.com/v1/playlists/6FYxvYq9Mx1ndvf6qFBOsf",
-                "id": "6FYxvYq9Mx1ndvf6qFBOsf",
+                "href": "https://api.spotify.com/v1/playlists/3qHUL9Qz3OlHnxmpmExcHd",
+                "id": "3qHUL9Qz3OlHnxmpmExcHd",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273180c16bc7da38e56f25c3d31ab67616d0000b2733428ebf4bec13003d44c5ca9ab67616d0000b273720de70fda3ffbd62db799a1ab67616d0000b2739bfaea2e5dd32f19b83ca098",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27308c08a13d8d1fbe59606a427ab67616d0000b273b6d9a4fbb0bd49f0f034aeadab67616d0000b273cb4f9790f75aec28ad033187ab67616d0000b273f9685817281327d5fecb244e",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273180c16bc7da38e56f25c3d31ab67616d0000b2733428ebf4bec13003d44c5ca9ab67616d0000b273720de70fda3ffbd62db799a1ab67616d0000b2739bfaea2e5dd32f19b83ca098",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27308c08a13d8d1fbe59606a427ab67616d0000b273b6d9a4fbb0bd49f0f034aeadab67616d0000b273cb4f9790f75aec28ad033187ab67616d0000b273f9685817281327d5fecb244e",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273180c16bc7da38e56f25c3d31ab67616d0000b2733428ebf4bec13003d44c5ca9ab67616d0000b273720de70fda3ffbd62db799a1ab67616d0000b2739bfaea2e5dd32f19b83ca098",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27308c08a13d8d1fbe59606a427ab67616d0000b273b6d9a4fbb0bd49f0f034aeadab67616d0000b273cb4f9790f75aec28ad033187ab67616d0000b273f9685817281327d5fecb244e",
                         "width": 60
                     }
                 ],
-                "name": "country romance/ country love ",
+                "name": "Hip hop romance ",
                 "owner": {
-                    "display_name": "Holly Polacek",
+                    "display_name": "Jones William",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/22wkv5smnrtlmyufrmfx3ezkq"
+                        "spotify": "https://open.spotify.com/user/jones16william"
                     },
-                    "href": "https://api.spotify.com/v1/users/22wkv5smnrtlmyufrmfx3ezkq",
-                    "id": "22wkv5smnrtlmyufrmfx3ezkq",
+                    "href": "https://api.spotify.com/v1/users/jones16william",
+                    "id": "jones16william",
                     "type": "user",
-                    "uri": "spotify:user:22wkv5smnrtlmyufrmfx3ezkq"
+                    "uri": "spotify:user:jones16william"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "MTQ2LGI1ZjMzMWM1NmJhODEzOGU1ODYzY2MxNGJmM2VmZjU5YmZjZDFiOWQ=",
+                "snapshot_id": "MjU4LDU5ZWMxYzJmNWFlNTNiNzg5YzczNmRlZTcwNzQyYTc5NGRkN2EyN2Q=",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/6FYxvYq9Mx1ndvf6qFBOsf/tracks",
-                    "total": 145
+                    "href": "https://api.spotify.com/v1/playlists/3qHUL9Qz3OlHnxmpmExcHd/tracks",
+                    "total": 118
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:6FYxvYq9Mx1ndvf6qFBOsf"
+                "uri": "spotify:playlist:3qHUL9Qz3OlHnxmpmExcHd"
+            },
+            {
+                "collaborative": false,
+                "description": "Lofi hip-hop, chill&#x2F;romance mix",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/3RWO3STj6Rfv0n1MyUb0MM"
+                },
+                "href": "https://api.spotify.com/v1/playlists/3RWO3STj6Rfv0n1MyUb0MM",
+                "id": "3RWO3STj6Rfv0n1MyUb0MM",
+                "images": [
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67706c0000da848c101cb4f2025c05c6aa4688",
+                        "width": 300
+                    }
+                ],
+                "name": "Pink mix",
+                "owner": {
+                    "display_name": "Thomas Van Malderen",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/1145286165"
+                    },
+                    "href": "https://api.spotify.com/v1/users/1145286165",
+                    "id": "1145286165",
+                    "type": "user",
+                    "uri": "spotify:user:1145286165"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "NiwyY2U3ZGJhNGJhOTNiNjczNGNkYTcyNTc3ZmYwOGFhZTE0MzJjNjlm",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/3RWO3STj6Rfv0n1MyUb0MM/tracks",
+                    "total": 294
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:3RWO3STj6Rfv0n1MyUb0MM"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/2u6Sr10tymhZM404Lm6D0d"
+                    "spotify": "https://open.spotify.com/playlist/4vW1QVq3T2sb9plBxMNMY7"
                 },
-                "href": "https://api.spotify.com/v1/playlists/2u6Sr10tymhZM404Lm6D0d",
-                "id": "2u6Sr10tymhZM404Lm6D0d",
+                "href": "https://api.spotify.com/v1/playlists/4vW1QVq3T2sb9plBxMNMY7",
+                "id": "4vW1QVq3T2sb9plBxMNMY7",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733a2cc6c5cdd9f07a95efa51bab67616d0000b2734ff3b9bdddef49e809ab07e5ab67616d0000b2735cfe8f215e1276091dbab317ab67616d0000b273a13babb8e78be20f94d69299",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730c0b9bba977d63617c4957e3ab67616d0000b2730f5397dc6aa91374897182e0ab67616d0000b2737fdf28b1a1cd14c3e84dad2bab67616d0000b273ce159a3ba2096e13fa9d4b4c",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733a2cc6c5cdd9f07a95efa51bab67616d0000b2734ff3b9bdddef49e809ab07e5ab67616d0000b2735cfe8f215e1276091dbab317ab67616d0000b273a13babb8e78be20f94d69299",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730c0b9bba977d63617c4957e3ab67616d0000b2730f5397dc6aa91374897182e0ab67616d0000b2737fdf28b1a1cd14c3e84dad2bab67616d0000b273ce159a3ba2096e13fa9d4b4c",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733a2cc6c5cdd9f07a95efa51bab67616d0000b2734ff3b9bdddef49e809ab07e5ab67616d0000b2735cfe8f215e1276091dbab317ab67616d0000b273a13babb8e78be20f94d69299",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730c0b9bba977d63617c4957e3ab67616d0000b2730f5397dc6aa91374897182e0ab67616d0000b2737fdf28b1a1cd14c3e84dad2bab67616d0000b273ce159a3ba2096e13fa9d4b4c",
                         "width": 60
                     }
                 ],
-                "name": "Country Romance",
+                "name": "Romance Hip-Hop",
                 "owner": {
-                    "display_name": "Hannah Jenkins",
+                    "display_name": "Cody",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/1245001056"
+                        "spotify": "https://open.spotify.com/user/1f3q3b567eiywp746vsgjjbxd"
                     },
-                    "href": "https://api.spotify.com/v1/users/1245001056",
-                    "id": "1245001056",
+                    "href": "https://api.spotify.com/v1/users/1f3q3b567eiywp746vsgjjbxd",
+                    "id": "1f3q3b567eiywp746vsgjjbxd",
                     "type": "user",
-                    "uri": "spotify:user:1245001056"
+                    "uri": "spotify:user:1f3q3b567eiywp746vsgjjbxd"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "NDkwLDcyMjAyYTgyMWVhNDNhZGRkZDJhMDNkMGE4Njg3YWY5ODA5NDQ4NjE=",
+                "snapshot_id": "MjcsNjFlZjNjMTFkOTZjZWU4ZjIyNzkwZDk1YjA3ZDViMDU4NmQyOThjZA==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/2u6Sr10tymhZM404Lm6D0d/tracks",
-                    "total": 487
+                    "href": "https://api.spotify.com/v1/playlists/4vW1QVq3T2sb9plBxMNMY7/tracks",
+                    "total": 26
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:2u6Sr10tymhZM404Lm6D0d"
-            },
-            {
-                "collaborative": false,
-                "description": "Fargo (Series), Hail Caesar!, Inside Llewyn Davis, True Grit, A Serious Man, Burn After Reading, No Country For Old Men, Romance &amp; Cigarettes, The Ladykillers, Intolerable Cruelty, Down from the Mountain, O Brother, Where Art Thou?, The Big Lebowski, Fargo, The Hudsucker Proxy, Miller&#x27;s Crossing etc",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/7t55lzj1BqvFPMb7W6cKD5"
-                },
-                "href": "https://api.spotify.com/v1/playlists/7t55lzj1BqvFPMb7W6cKD5",
-                "id": "7t55lzj1BqvFPMb7W6cKD5",
-                "images": [
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67706c0000da849d8704d92d8be1dcdc0f6a50",
-                        "width": 300
-                    }
-                ],
-                "name": "Coen Brothers Soundtracks 🎬",
-                "owner": {
-                    "display_name": "Daniel van Egmond",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/cannondale12"
-                    },
-                    "href": "https://api.spotify.com/v1/users/cannondale12",
-                    "id": "cannondale12",
-                    "type": "user",
-                    "uri": "spotify:user:cannondale12"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MzM5LDFlYzZiMTM1YTBmYjcwNGVhYjJhMWRmYmE4ODhjMWQzNDMwNWJkZTE=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/7t55lzj1BqvFPMb7W6cKD5/tracks",
-                    "total": 307
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:7t55lzj1BqvFPMb7W6cKD5"
-            },
-            {
-                "collaborative": false,
-                "description": "Everybody needs a little country romance in their life",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/3G471i8Okq3Jf3r8SPzn5d"
-                },
-                "href": "https://api.spotify.com/v1/playlists/3G471i8Okq3Jf3r8SPzn5d",
-                "id": "3G471i8Okq3Jf3r8SPzn5d",
-                "images": [
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67706c0000da849995b7175fa4b0dbadcfa6ed",
-                        "width": 300
-                    }
-                ],
-                "name": "❤Country romance❤",
-                "owner": {
-                    "display_name": "🖤ᄂΛПIΣ🖤",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/o7s7nu63992t3jyetkziwvf72"
-                    },
-                    "href": "https://api.spotify.com/v1/users/o7s7nu63992t3jyetkziwvf72",
-                    "id": "o7s7nu63992t3jyetkziwvf72",
-                    "type": "user",
-                    "uri": "spotify:user:o7s7nu63992t3jyetkziwvf72"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTA0LGY2Y2JmZjY4YTVjYTEwNGJiNmM5Yzg0YjhlNDU2N2E3YWFiMjJmOWM=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/3G471i8Okq3Jf3r8SPzn5d/tracks",
-                    "total": 86
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:3G471i8Okq3Jf3r8SPzn5d"
-            },
-            {
-                "collaborative": false,
-                "description": "back-woods-love-sick-star-gazing-muddy-jeans vibe",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/3VwDT8j1OtJhj4O2S2j1Rm"
-                },
-                "href": "https://api.spotify.com/v1/playlists/3VwDT8j1OtJhj4O2S2j1Rm",
-                "id": "3VwDT8j1OtJhj4O2S2j1Rm",
-                "images": [
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67706c0000da84265e21e2063660234356437b",
-                        "width": 300
-                    }
-                ],
-                "name": "country romance",
-                "owner": {
-                    "display_name": "hyrict",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/hyrict"
-                    },
-                    "href": "https://api.spotify.com/v1/users/hyrict",
-                    "id": "hyrict",
-                    "type": "user",
-                    "uri": "spotify:user:hyrict"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "ODksMTVlZGU2MTU0ZGRkNmFmZWE4N2Y3YWViODkwZWI1YTRmODJhYTI1OA==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/3VwDT8j1OtJhj4O2S2j1Rm/tracks",
-                    "total": 78
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:3VwDT8j1OtJhj4O2S2j1Rm"
+                "uri": "spotify:playlist:4vW1QVq3T2sb9plBxMNMY7"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/3NZk7SvgKCIB4ySytuiOjr"
+                    "spotify": "https://open.spotify.com/playlist/29g4GRKgZ6YaHjS7T4He1G"
                 },
-                "href": "https://api.spotify.com/v1/playlists/3NZk7SvgKCIB4ySytuiOjr",
-                "id": "3NZk7SvgKCIB4ySytuiOjr",
+                "href": "https://api.spotify.com/v1/playlists/29g4GRKgZ6YaHjS7T4He1G",
+                "id": "29g4GRKgZ6YaHjS7T4He1G",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273a8386711c6f52e6f99cde791ab67616d0000b273b3bf50004c510109265daf9cab67616d0000b273bd4d74f018c654b7d6a5f8acab67616d0000b273de2b6ae73697b2da4d3e9c27",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27307acb67d4e71275637cd0a1bab67616d0000b27329e859984c912d7a77420e43ab67616d0000b273c0ddb38854cde41708d606a1ab67616d0000b273dcbcf12cbd20a8b5bd3b5d8b",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273a8386711c6f52e6f99cde791ab67616d0000b273b3bf50004c510109265daf9cab67616d0000b273bd4d74f018c654b7d6a5f8acab67616d0000b273de2b6ae73697b2da4d3e9c27",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27307acb67d4e71275637cd0a1bab67616d0000b27329e859984c912d7a77420e43ab67616d0000b273c0ddb38854cde41708d606a1ab67616d0000b273dcbcf12cbd20a8b5bd3b5d8b",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273a8386711c6f52e6f99cde791ab67616d0000b273b3bf50004c510109265daf9cab67616d0000b273bd4d74f018c654b7d6a5f8acab67616d0000b273de2b6ae73697b2da4d3e9c27",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27307acb67d4e71275637cd0a1bab67616d0000b27329e859984c912d7a77420e43ab67616d0000b273c0ddb38854cde41708d606a1ab67616d0000b273dcbcf12cbd20a8b5bd3b5d8b",
                         "width": 60
                     }
                 ],
-                "name": "romance country ;)",
+                "name": "songs in my 2000s hip hop  romance movie",
                 "owner": {
-                    "display_name": "lizzykbastidas",
+                    "display_name": "devon_wds",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/lizzykbastidas"
+                        "spotify": "https://open.spotify.com/user/devon_wds"
                     },
-                    "href": "https://api.spotify.com/v1/users/lizzykbastidas",
-                    "id": "lizzykbastidas",
+                    "href": "https://api.spotify.com/v1/users/devon_wds",
+                    "id": "devon_wds",
                     "type": "user",
-                    "uri": "spotify:user:lizzykbastidas"
+                    "uri": "spotify:user:devon_wds"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "MTU3LGU0MGQ1Y2M0YTkyN2QwZTBmZDVjNmZiNmFjZmFlZDFjNjE0MGNlZTA=",
+                "snapshot_id": "MjksODM3ZjdkNDJmYzVjNmI3OGMzZDZkNzAzN2MyZmEyYzcxNTAwY2Y3OA==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/3NZk7SvgKCIB4ySytuiOjr/tracks",
-                    "total": 156
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:3NZk7SvgKCIB4ySytuiOjr"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/1jbs4ZKoKd4lJHMgjf2XDM"
-                },
-                "href": "https://api.spotify.com/v1/playlists/1jbs4ZKoKd4lJHMgjf2XDM",
-                "id": "1jbs4ZKoKd4lJHMgjf2XDM",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731ba5682505dd6e2592b16e41ab67616d0000b27352f4fc921219a8b8ca2bb27dab67616d0000b2739bfaea2e5dd32f19b83ca098ab67616d0000b273b5529363386deb522a4f586c",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731ba5682505dd6e2592b16e41ab67616d0000b27352f4fc921219a8b8ca2bb27dab67616d0000b2739bfaea2e5dd32f19b83ca098ab67616d0000b273b5529363386deb522a4f586c",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731ba5682505dd6e2592b16e41ab67616d0000b27352f4fc921219a8b8ca2bb27dab67616d0000b2739bfaea2e5dd32f19b83ca098ab67616d0000b273b5529363386deb522a4f586c",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance Vibes",
-                "owner": {
-                    "display_name": "Bradley Berk",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/22m4hstcz5zvgb7dfk7hzqhka"
-                    },
-                    "href": "https://api.spotify.com/v1/users/22m4hstcz5zvgb7dfk7hzqhka",
-                    "id": "22m4hstcz5zvgb7dfk7hzqhka",
-                    "type": "user",
-                    "uri": "spotify:user:22m4hstcz5zvgb7dfk7hzqhka"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MjEsMGFiNGNlNzYwNjg2YzI5NDkyMGI4MTRjNGU5OWVhZDMzZjRhN2NmNA==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/1jbs4ZKoKd4lJHMgjf2XDM/tracks",
-                    "total": 18
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:1jbs4ZKoKd4lJHMgjf2XDM"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/4WfZCIAXyx7WxTuNI3276X"
-                },
-                "href": "https://api.spotify.com/v1/playlists/4WfZCIAXyx7WxTuNI3276X",
-                "id": "4WfZCIAXyx7WxTuNI3276X",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2734d7b8628688392c703116f50ab67616d0000b2735e8d360eb0a0b6b43876ab16ab67616d0000b2736e955099e6d2225059595b9eab67616d0000b2738c67513a5ffd9a018b410f1b",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2734d7b8628688392c703116f50ab67616d0000b2735e8d360eb0a0b6b43876ab16ab67616d0000b2736e955099e6d2225059595b9eab67616d0000b2738c67513a5ffd9a018b410f1b",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2734d7b8628688392c703116f50ab67616d0000b2735e8d360eb0a0b6b43876ab16ab67616d0000b2736e955099e6d2225059595b9eab67616d0000b2738c67513a5ffd9a018b410f1b",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Dinner Romance",
-                "owner": {
-                    "display_name": "S Layali Kayyal 🦋",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/lfm1nzeyltqs5dcolvsnf3cts"
-                    },
-                    "href": "https://api.spotify.com/v1/users/lfm1nzeyltqs5dcolvsnf3cts",
-                    "id": "lfm1nzeyltqs5dcolvsnf3cts",
-                    "type": "user",
-                    "uri": "spotify:user:lfm1nzeyltqs5dcolvsnf3cts"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "OTIsNzk2Mzk2YTRiZmZkMDVhZTgwYTJiZDQ5MmQzNDRlMWNlMWVhZmNiMQ==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/4WfZCIAXyx7WxTuNI3276X/tracks",
-                    "total": 50
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:4WfZCIAXyx7WxTuNI3276X"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/38wOJQv1zdAzOQ2LFy3I0y"
-                },
-                "href": "https://api.spotify.com/v1/playlists/38wOJQv1zdAzOQ2LFy3I0y",
-                "id": "38wOJQv1zdAzOQ2LFy3I0y",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27305f4943d0f3a292234e74ab8ab67616d0000b2739e6b694939f7495f67a0de33ab67616d0000b273ea6730688c2c5e31b9463f3bab67616d0000b273f00a1acf866539632b187ea0",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27305f4943d0f3a292234e74ab8ab67616d0000b2739e6b694939f7495f67a0de33ab67616d0000b273ea6730688c2c5e31b9463f3bab67616d0000b273f00a1acf866539632b187ea0",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27305f4943d0f3a292234e74ab8ab67616d0000b2739e6b694939f7495f67a0de33ab67616d0000b273ea6730688c2c5e31b9463f3bab67616d0000b273f00a1acf866539632b187ea0",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance",
-                "owner": {
-                    "display_name": "Kim Akins",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/1240947431"
-                    },
-                    "href": "https://api.spotify.com/v1/users/1240947431",
-                    "id": "1240947431",
-                    "type": "user",
-                    "uri": "spotify:user:1240947431"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTIwLDA5OTRlNzI3MzBmN2UwZjI2OTExZjc5NTQ0NTFlYThjNmNhMDQxOWY=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/38wOJQv1zdAzOQ2LFy3I0y/tracks",
-                    "total": 117
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:38wOJQv1zdAzOQ2LFy3I0y"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/5ItZWBCBpWMCel1kbITEYK"
-                },
-                "href": "https://api.spotify.com/v1/playlists/5ItZWBCBpWMCel1kbITEYK",
-                "id": "5ItZWBCBpWMCel1kbITEYK",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27305f4943d0f3a292234e74ab8ab67616d0000b27343fd2276b86d3909fbe4eb24ab67616d0000b273d33acf6faeda8ab64fff100dab67616d0000b273f00a1acf866539632b187ea0",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27305f4943d0f3a292234e74ab8ab67616d0000b27343fd2276b86d3909fbe4eb24ab67616d0000b273d33acf6faeda8ab64fff100dab67616d0000b273f00a1acf866539632b187ea0",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27305f4943d0f3a292234e74ab8ab67616d0000b27343fd2276b86d3909fbe4eb24ab67616d0000b273d33acf6faeda8ab64fff100dab67616d0000b273f00a1acf866539632b187ea0",
-                        "width": 60
-                    }
-                ],
-                "name": "country romance",
-                "owner": {
-                    "display_name": "jane kingrey",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/s6vw5h0jdv7qkcs7mbk8br7bd"
-                    },
-                    "href": "https://api.spotify.com/v1/users/s6vw5h0jdv7qkcs7mbk8br7bd",
-                    "id": "s6vw5h0jdv7qkcs7mbk8br7bd",
-                    "type": "user",
-                    "uri": "spotify:user:s6vw5h0jdv7qkcs7mbk8br7bd"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MzAsMzQ3ZGNjMDA1NmU4MGJkYmNlOWZjZmRmYWY1YjE0Yjg0ZjczYjcxNw==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/5ItZWBCBpWMCel1kbITEYK/tracks",
-                    "total": 27
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:5ItZWBCBpWMCel1kbITEYK"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/3E9XAprKbdTSwazDmW7aD2"
-                },
-                "href": "https://api.spotify.com/v1/playlists/3E9XAprKbdTSwazDmW7aD2",
-                "id": "3E9XAprKbdTSwazDmW7aD2",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732a714a26e4dbebfc92084e1aab67616d0000b2736d421288755d35ec41a82a1cab67616d0000b273815ec05a32fddc44106dacc5ab67616d0000b273ea7fc1cf1b2fcca16d0b7018",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732a714a26e4dbebfc92084e1aab67616d0000b2736d421288755d35ec41a82a1cab67616d0000b273815ec05a32fddc44106dacc5ab67616d0000b273ea7fc1cf1b2fcca16d0b7018",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732a714a26e4dbebfc92084e1aab67616d0000b2736d421288755d35ec41a82a1cab67616d0000b273815ec05a32fddc44106dacc5ab67616d0000b273ea7fc1cf1b2fcca16d0b7018",
-                        "width": 60
-                    }
-                ],
-                "name": "Country romance",
-                "owner": {
-                    "display_name": "Christie",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/31gh44f72gkmuxkpqumal2g5d3au"
-                    },
-                    "href": "https://api.spotify.com/v1/users/31gh44f72gkmuxkpqumal2g5d3au",
-                    "id": "31gh44f72gkmuxkpqumal2g5d3au",
-                    "type": "user",
-                    "uri": "spotify:user:31gh44f72gkmuxkpqumal2g5d3au"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MzAsNTZhYzFkMzVjMGJmYWJkYTcwYTJkMGZmNDczODVmYTU4NDhmY2Y0Nw==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/3E9XAprKbdTSwazDmW7aD2/tracks",
-                    "total": 29
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:3E9XAprKbdTSwazDmW7aD2"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/28DbEPz4vI9UD4yjqn2R98"
-                },
-                "href": "https://api.spotify.com/v1/playlists/28DbEPz4vI9UD4yjqn2R98",
-                "id": "28DbEPz4vI9UD4yjqn2R98",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27305e4408393e1c81a8ab1bf26ab67616d0000b2731c8ca4907c9f187456fe3f2cab67616d0000b27329506209c1bdebd2de7ee5b4ab67616d0000b2733a2cc6c5cdd9f07a95efa51b",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27305e4408393e1c81a8ab1bf26ab67616d0000b2731c8ca4907c9f187456fe3f2cab67616d0000b27329506209c1bdebd2de7ee5b4ab67616d0000b2733a2cc6c5cdd9f07a95efa51b",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27305e4408393e1c81a8ab1bf26ab67616d0000b2731c8ca4907c9f187456fe3f2cab67616d0000b27329506209c1bdebd2de7ee5b4ab67616d0000b2733a2cc6c5cdd9f07a95efa51b",
-                        "width": 60
-                    }
-                ],
-                "name": "Country romance",
-                "owner": {
-                    "display_name": "bobbyfowler.counselor",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/bobbyfowler.counselor"
-                    },
-                    "href": "https://api.spotify.com/v1/users/bobbyfowler.counselor",
-                    "id": "bobbyfowler.counselor",
-                    "type": "user",
-                    "uri": "spotify:user:bobbyfowler.counselor"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTAsMTYzMjgzMjk2N2M3ZWQ2MzE2YWNlMzJjYmQ0ZWVhZjE1Mzc5NmVkMQ==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/28DbEPz4vI9UD4yjqn2R98/tracks",
-                    "total": 9
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:28DbEPz4vI9UD4yjqn2R98"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/2oDAeG6R4moPV2qZkDGk6S"
-                },
-                "href": "https://api.spotify.com/v1/playlists/2oDAeG6R4moPV2qZkDGk6S",
-                "id": "2oDAeG6R4moPV2qZkDGk6S",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273084051346f432cc68a1279cdab67616d0000b27331ad98dc9bfa9bed6bda112aab67616d0000b27362cc21a77d694f50511a1783ab67616d0000b27364dcaa14e9f758e6b4bb5778",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273084051346f432cc68a1279cdab67616d0000b27331ad98dc9bfa9bed6bda112aab67616d0000b27362cc21a77d694f50511a1783ab67616d0000b27364dcaa14e9f758e6b4bb5778",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273084051346f432cc68a1279cdab67616d0000b27331ad98dc9bfa9bed6bda112aab67616d0000b27362cc21a77d694f50511a1783ab67616d0000b27364dcaa14e9f758e6b4bb5778",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance",
-                "owner": {
-                    "display_name": "ejinsawilson",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/ejinsawilson"
-                    },
-                    "href": "https://api.spotify.com/v1/users/ejinsawilson",
-                    "id": "ejinsawilson",
-                    "type": "user",
-                    "uri": "spotify:user:ejinsawilson"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MjgyLDYwZWIyNmVmY2M5NjgyZTMyZmFjOGYwNWMzOGJlNTg1MDBiZTAwMGM=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/2oDAeG6R4moPV2qZkDGk6S/tracks",
-                    "total": 274
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:2oDAeG6R4moPV2qZkDGk6S"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/6KRYUGGGZCdHUzqjtZ0XEQ"
-                },
-                "href": "https://api.spotify.com/v1/playlists/6KRYUGGGZCdHUzqjtZ0XEQ",
-                "id": "6KRYUGGGZCdHUzqjtZ0XEQ",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732fbffba1f6cce197ece58ea6ab67616d0000b273e70e7eb792a659d3252f8f60ab67616d0000b273ed93bc0c99b18c2b4f63e88fab67616d0000b273f4adbbdcd39b09e5f0b9e03e",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732fbffba1f6cce197ece58ea6ab67616d0000b273e70e7eb792a659d3252f8f60ab67616d0000b273ed93bc0c99b18c2b4f63e88fab67616d0000b273f4adbbdcd39b09e5f0b9e03e",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732fbffba1f6cce197ece58ea6ab67616d0000b273e70e7eb792a659d3252f8f60ab67616d0000b273ed93bc0c99b18c2b4f63e88fab67616d0000b273f4adbbdcd39b09e5f0b9e03e",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance",
-                "owner": {
-                    "display_name": "Darren Death",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/22e2ima6ltj3bzkyku3bufvua"
-                    },
-                    "href": "https://api.spotify.com/v1/users/22e2ima6ltj3bzkyku3bufvua",
-                    "id": "22e2ima6ltj3bzkyku3bufvua",
-                    "type": "user",
-                    "uri": "spotify:user:22e2ima6ltj3bzkyku3bufvua"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "NzEsNjExM2M3ODFjNTFlMDhlOTRjNTRhNTE5YzI2YmNlYjA2ZWRiNDg1Nw==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/6KRYUGGGZCdHUzqjtZ0XEQ/tracks",
-                    "total": 40
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:6KRYUGGGZCdHUzqjtZ0XEQ"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/1xERDNFvfTwvGo7NLnLejn"
-                },
-                "href": "https://api.spotify.com/v1/playlists/1xERDNFvfTwvGo7NLnLejn",
-                "id": "1xERDNFvfTwvGo7NLnLejn",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27324e784b1db997c872898f69eab67616d0000b27335f967620e33127dbfe84b86ab67616d0000b273984a1656d12941eb3286a9ccab67616d0000b273d630dbe9cbf7ad80807ffdfe",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27324e784b1db997c872898f69eab67616d0000b27335f967620e33127dbfe84b86ab67616d0000b273984a1656d12941eb3286a9ccab67616d0000b273d630dbe9cbf7ad80807ffdfe",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27324e784b1db997c872898f69eab67616d0000b27335f967620e33127dbfe84b86ab67616d0000b273984a1656d12941eb3286a9ccab67616d0000b273d630dbe9cbf7ad80807ffdfe",
-                        "width": 60
-                    }
-                ],
-                "name": "sweet country romance",
-                "owner": {
-                    "display_name": "baileynyberg12",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/baileynyberg12"
-                    },
-                    "href": "https://api.spotify.com/v1/users/baileynyberg12",
-                    "id": "baileynyberg12",
-                    "type": "user",
-                    "uri": "spotify:user:baileynyberg12"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "NTUsZTMzMGRiYzM4NjM1NWM4ZDliYzE4ODNkMWQ2NWExZGU0YzBhNDljOA==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/1xERDNFvfTwvGo7NLnLejn/tracks",
-                    "total": 54
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:1xERDNFvfTwvGo7NLnLejn"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/6xJkgSVs8DFFdDkOdZBWCq"
-                },
-                "href": "https://api.spotify.com/v1/playlists/6xJkgSVs8DFFdDkOdZBWCq",
-                "id": "6xJkgSVs8DFFdDkOdZBWCq",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273472f53f91497f83012d15b84ab67616d0000b27349664e38e8c90c5174ad8a01ab67616d0000b273500264e1f2397a7e2eb7c639ab67616d0000b273815ec05a32fddc44106dacc5",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273472f53f91497f83012d15b84ab67616d0000b27349664e38e8c90c5174ad8a01ab67616d0000b273500264e1f2397a7e2eb7c639ab67616d0000b273815ec05a32fddc44106dacc5",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273472f53f91497f83012d15b84ab67616d0000b27349664e38e8c90c5174ad8a01ab67616d0000b273500264e1f2397a7e2eb7c639ab67616d0000b273815ec05a32fddc44106dacc5",
-                        "width": 60
-                    }
-                ],
-                "name": "Country♡Romance",
-                "owner": {
-                    "display_name": "♡Anita♡",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/atinasaav"
-                    },
-                    "href": "https://api.spotify.com/v1/users/atinasaav",
-                    "id": "atinasaav",
-                    "type": "user",
-                    "uri": "spotify:user:atinasaav"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MjQsNjdkZDE1Y2ZjZGUzOGQ1YzQ4N2Y4MDg2OGNjZjE0ZjdlNzIwNjgxMA==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/6xJkgSVs8DFFdDkOdZBWCq/tracks",
-                    "total": 21
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:6xJkgSVs8DFFdDkOdZBWCq"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/6KGneUjIVSpCjXkQNFnOhy"
-                },
-                "href": "https://api.spotify.com/v1/playlists/6KGneUjIVSpCjXkQNFnOhy",
-                "id": "6KGneUjIVSpCjXkQNFnOhy",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27341d60c90951cdecd05abfbe6ab67616d0000b2737a1cb3fa39a383468d5cadfcab67616d0000b273a3473085a2a48547a5c290a8ab67616d0000b273c1dfda1b94b3db5bcdeabf0d",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27341d60c90951cdecd05abfbe6ab67616d0000b2737a1cb3fa39a383468d5cadfcab67616d0000b273a3473085a2a48547a5c290a8ab67616d0000b273c1dfda1b94b3db5bcdeabf0d",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27341d60c90951cdecd05abfbe6ab67616d0000b2737a1cb3fa39a383468d5cadfcab67616d0000b273a3473085a2a48547a5c290a8ab67616d0000b273c1dfda1b94b3db5bcdeabf0d",
-                        "width": 60
-                    }
-                ],
-                "name": "country romance",
-                "owner": {
-                    "display_name": "jenncontrerass",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/jenncontrerass"
-                    },
-                    "href": "https://api.spotify.com/v1/users/jenncontrerass",
-                    "id": "jenncontrerass",
-                    "type": "user",
-                    "uri": "spotify:user:jenncontrerass"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "NDMsNmMxMmFiMzU4Y2E4MTBkNzViMGMwYjg1NTMzOTFhMGVlM2JiZGFlOQ==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/6KGneUjIVSpCjXkQNFnOhy/tracks",
-                    "total": 47
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:6KGneUjIVSpCjXkQNFnOhy"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/4EFuA3aAFrBRNfeacXFAR0"
-                },
-                "href": "https://api.spotify.com/v1/playlists/4EFuA3aAFrBRNfeacXFAR0",
-                "id": "4EFuA3aAFrBRNfeacXFAR0",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27316fce2616744168b30462991ab67616d0000b27342c09a4344af54e556f43080ab67616d0000b2736d18b0052a1deda980518008ab67616d0000b273d6978d069d02a0a5138503a2",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27316fce2616744168b30462991ab67616d0000b27342c09a4344af54e556f43080ab67616d0000b2736d18b0052a1deda980518008ab67616d0000b273d6978d069d02a0a5138503a2",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27316fce2616744168b30462991ab67616d0000b27342c09a4344af54e556f43080ab67616d0000b2736d18b0052a1deda980518008ab67616d0000b273d6978d069d02a0a5138503a2",
-                        "width": 60
-                    }
-                ],
-                "name": "country romance ",
-                "owner": {
-                    "display_name": "Austin Page",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/austinpage012501"
-                    },
-                    "href": "https://api.spotify.com/v1/users/austinpage012501",
-                    "id": "austinpage012501",
-                    "type": "user",
-                    "uri": "spotify:user:austinpage012501"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTE3LDBiMDVhMTYyYzRmYTlmZTRlMWFlYmZmYzBkYjM2Y2QyMDlhNjE2OTU=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/4EFuA3aAFrBRNfeacXFAR0/tracks",
-                    "total": 109
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:4EFuA3aAFrBRNfeacXFAR0"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/2QhIKGhokZ5HWEeI5uGIDk"
-                },
-                "href": "https://api.spotify.com/v1/playlists/2QhIKGhokZ5HWEeI5uGIDk",
-                "id": "2QhIKGhokZ5HWEeI5uGIDk",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2734516013b5af566a0daf371b1ab67616d0000b273720de70fda3ffbd62db799a1ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273a0352f19a475a31fbdc56a84",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2734516013b5af566a0daf371b1ab67616d0000b273720de70fda3ffbd62db799a1ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273a0352f19a475a31fbdc56a84",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2734516013b5af566a0daf371b1ab67616d0000b273720de70fda3ffbd62db799a1ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273a0352f19a475a31fbdc56a84",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance Dance",
-                "owner": {
-                    "display_name": "Samantha Kay",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/sammijja7"
-                    },
-                    "href": "https://api.spotify.com/v1/users/sammijja7",
-                    "id": "sammijja7",
-                    "type": "user",
-                    "uri": "spotify:user:sammijja7"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MjgsODhkOWI4Y2FiNDMzMjk5NmRjYWE5YjE2OWNiOTIwNzI3ZWY5NjQyNQ==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/2QhIKGhokZ5HWEeI5uGIDk/tracks",
-                    "total": 27
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:2QhIKGhokZ5HWEeI5uGIDk"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/2qGq66q1qy0OtzKV6zIL0d"
-                },
-                "href": "https://api.spotify.com/v1/playlists/2qGq66q1qy0OtzKV6zIL0d",
-                "id": "2qGq66q1qy0OtzKV6zIL0d",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2735ca80b7dafc3dcf967431b54ab67616d0000b27389c5950d6b281013f8ee081cab67616d0000b273a8386711c6f52e6f99cde791ab67616d0000b273ccba76fad1c624c09e72bc78",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2735ca80b7dafc3dcf967431b54ab67616d0000b27389c5950d6b281013f8ee081cab67616d0000b273a8386711c6f52e6f99cde791ab67616d0000b273ccba76fad1c624c09e72bc78",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2735ca80b7dafc3dcf967431b54ab67616d0000b27389c5950d6b281013f8ee081cab67616d0000b273a8386711c6f52e6f99cde791ab67616d0000b273ccba76fad1c624c09e72bc78",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance",
-                "owner": {
-                    "display_name": "fausey01",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/fausey01"
-                    },
-                    "href": "https://api.spotify.com/v1/users/fausey01",
-                    "id": "fausey01",
-                    "type": "user",
-                    "uri": "spotify:user:fausey01"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "NzUsYWM4MzJmOTBiYWNjN2Q5OTU0ODM0MzBhNDNjNmFmOTFhNjc5ZDc0YQ==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/2qGq66q1qy0OtzKV6zIL0d/tracks",
-                    "total": 49
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:2qGq66q1qy0OtzKV6zIL0d"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/4luo8aerWyDOpk37GPKxTk"
-                },
-                "href": "https://api.spotify.com/v1/playlists/4luo8aerWyDOpk37GPKxTk",
-                "id": "4luo8aerWyDOpk37GPKxTk",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27302dee8bfabc4f93c79c6fa15ab67616d0000b27315069968c52552cc2f222391ab67616d0000b273bac86f952e19f7ac106aad12ab67616d0000b273f4adbbdcd39b09e5f0b9e03e",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27302dee8bfabc4f93c79c6fa15ab67616d0000b27315069968c52552cc2f222391ab67616d0000b273bac86f952e19f7ac106aad12ab67616d0000b273f4adbbdcd39b09e5f0b9e03e",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27302dee8bfabc4f93c79c6fa15ab67616d0000b27315069968c52552cc2f222391ab67616d0000b273bac86f952e19f7ac106aad12ab67616d0000b273f4adbbdcd39b09e5f0b9e03e",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance",
-                "owner": {
-                    "display_name": "Sarah Snowdale",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/1286114613"
-                    },
-                    "href": "https://api.spotify.com/v1/users/1286114613",
-                    "id": "1286114613",
-                    "type": "user",
-                    "uri": "spotify:user:1286114613"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "NDksM2Y5NWRhYmZiYWMwZTVmYzBiOGQ4M2QxOTkxODFiOTUyNzJmYzUwMA==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/4luo8aerWyDOpk37GPKxTk/tracks",
-                    "total": 45
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:4luo8aerWyDOpk37GPKxTk"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/2ma6ocDBs55xyPWkH7vhGm"
-                },
-                "href": "https://api.spotify.com/v1/playlists/2ma6ocDBs55xyPWkH7vhGm",
-                "id": "2ma6ocDBs55xyPWkH7vhGm",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732a0070a89eb69a9cc7914f49ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273b210ae955aeea30e0fa97434ab67616d0000b273bd2de84891eed55a6a82368b",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732a0070a89eb69a9cc7914f49ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273b210ae955aeea30e0fa97434ab67616d0000b273bd2de84891eed55a6a82368b",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732a0070a89eb69a9cc7914f49ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273b210ae955aeea30e0fa97434ab67616d0000b273bd2de84891eed55a6a82368b",
-                        "width": 60
-                    }
-                ],
-                "name": "country romance ",
-                "owner": {
-                    "display_name": "Chelsea woodbeck",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/pvogwpsdoirtwu05vfwjrzfef"
-                    },
-                    "href": "https://api.spotify.com/v1/users/pvogwpsdoirtwu05vfwjrzfef",
-                    "id": "pvogwpsdoirtwu05vfwjrzfef",
-                    "type": "user",
-                    "uri": "spotify:user:pvogwpsdoirtwu05vfwjrzfef"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTAxLGFjNTA4M2UwODRmYTQ5ZmY0ZTYxZGVkNjc5MTgyN2EyZmU1MGMwZGE=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/2ma6ocDBs55xyPWkH7vhGm/tracks",
-                    "total": 84
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:2ma6ocDBs55xyPWkH7vhGm"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/7Aq8zkr5uQ9CFpLnXhsfdC"
-                },
-                "href": "https://api.spotify.com/v1/playlists/7Aq8zkr5uQ9CFpLnXhsfdC",
-                "id": "7Aq8zkr5uQ9CFpLnXhsfdC",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2737c52bfee6a8924781a0df930ab67616d0000b2738096ddc062a4dbc17b5148c0ab67616d0000b273a96b93a4fc67a88bf8171b8fab67616d0000b273de2b6ae73697b2da4d3e9c27",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2737c52bfee6a8924781a0df930ab67616d0000b2738096ddc062a4dbc17b5148c0ab67616d0000b273a96b93a4fc67a88bf8171b8fab67616d0000b273de2b6ae73697b2da4d3e9c27",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2737c52bfee6a8924781a0df930ab67616d0000b2738096ddc062a4dbc17b5148c0ab67616d0000b273a96b93a4fc67a88bf8171b8fab67616d0000b273de2b6ae73697b2da4d3e9c27",
-                        "width": 60
-                    }
-                ],
-                "name": "Cheesy Country Romance",
-                "owner": {
-                    "display_name": "slopenope",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/slopenope"
-                    },
-                    "href": "https://api.spotify.com/v1/users/slopenope",
-                    "id": "slopenope",
-                    "type": "user",
-                    "uri": "spotify:user:slopenope"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTA0LGY1YTEyYTVlYjI5ZjQzNGYzNjBiZGM1N2E0M2M3NWVlOTNlMzZhOGE=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/7Aq8zkr5uQ9CFpLnXhsfdC/tracks",
-                    "total": 102
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:7Aq8zkr5uQ9CFpLnXhsfdC"
-            },
-            {
-                "collaborative": false,
-                "description": "a mix to take you from bar to bedroom. Eric Church, Aaron Watson, Blake Shelton, Josh Turner.",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/5aRWKvzLjFepI3uA5AlCjU"
-                },
-                "href": "https://api.spotify.com/v1/playlists/5aRWKvzLjFepI3uA5AlCjU",
-                "id": "5aRWKvzLjFepI3uA5AlCjU",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27318ff9ad4c7341ebc5e77e88eab67616d0000b2733f5bce667edf0cf804614137ab67616d0000b2736d421288755d35ec41a82a1cab67616d0000b273df003a18a327c3371ba8036f",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27318ff9ad4c7341ebc5e77e88eab67616d0000b2733f5bce667edf0cf804614137ab67616d0000b2736d421288755d35ec41a82a1cab67616d0000b273df003a18a327c3371ba8036f",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27318ff9ad4c7341ebc5e77e88eab67616d0000b2733f5bce667edf0cf804614137ab67616d0000b2736d421288755d35ec41a82a1cab67616d0000b273df003a18a327c3371ba8036f",
-                        "width": 60
-                    }
-                ],
-                "name": "P7.2 Country Romance",
-                "owner": {
-                    "display_name": "shareezy",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/shareezy"
-                    },
-                    "href": "https://api.spotify.com/v1/users/shareezy",
-                    "id": "shareezy",
-                    "type": "user",
-                    "uri": "spotify:user:shareezy"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTM2LDA2ZjVlY2Q5M2ZiZjYxYzhjMTQ2MWZhMzA3ZTI4MDAzOGRhZjJhODI=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/5aRWKvzLjFepI3uA5AlCjU/tracks",
-                    "total": 83
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:5aRWKvzLjFepI3uA5AlCjU"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/2pqtXmHvOb9MpTg4FWibK4"
-                },
-                "href": "https://api.spotify.com/v1/playlists/2pqtXmHvOb9MpTg4FWibK4",
-                "id": "2pqtXmHvOb9MpTg4FWibK4",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2733f2e5a67e69c991e926e1bd7ab67616d0000b2734a8f4a048bef3ade8fbddb25ab67616d0000b2737028f1dd988cb703f8ad0c36ab67616d0000b273d2993421bef048e835974055",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2733f2e5a67e69c991e926e1bd7ab67616d0000b2734a8f4a048bef3ade8fbddb25ab67616d0000b2737028f1dd988cb703f8ad0c36ab67616d0000b273d2993421bef048e835974055",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2733f2e5a67e69c991e926e1bd7ab67616d0000b2734a8f4a048bef3ade8fbddb25ab67616d0000b2737028f1dd988cb703f8ad0c36ab67616d0000b273d2993421bef048e835974055",
-                        "width": 60
-                    }
-                ],
-                "name": "country romance",
-                "owner": {
-                    "display_name": "Lupita Chavez",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/rchavez4066"
-                    },
-                    "href": "https://api.spotify.com/v1/users/rchavez4066",
-                    "id": "rchavez4066",
-                    "type": "user",
-                    "uri": "spotify:user:rchavez4066"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTM0LDA1NTI3NWFlMTg3NjFhNzcyNjQ3ODhmNmRkODNjN2U2ZmQzNTJiMWY=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/2pqtXmHvOb9MpTg4FWibK4/tracks",
-                    "total": 106
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:2pqtXmHvOb9MpTg4FWibK4"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/6pXOcc08c8W83gq6BFbS3w"
-                },
-                "href": "https://api.spotify.com/v1/playlists/6pXOcc08c8W83gq6BFbS3w",
-                "id": "6pXOcc08c8W83gq6BFbS3w",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273561a5dd36e3f2eae1c571a61ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273e4ed191be04ba0e4253c77f4ab67616d0000b273f3e75bc21b56bbea85f64070",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273561a5dd36e3f2eae1c571a61ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273e4ed191be04ba0e4253c77f4ab67616d0000b273f3e75bc21b56bbea85f64070",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273561a5dd36e3f2eae1c571a61ab67616d0000b2738c67513a5ffd9a018b410f1bab67616d0000b273e4ed191be04ba0e4253c77f4ab67616d0000b273f3e75bc21b56bbea85f64070",
-                        "width": 60
-                    }
-                ],
-                "name": "Country romance",
-                "owner": {
-                    "display_name": "jkmalex",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/jkmalex"
-                    },
-                    "href": "https://api.spotify.com/v1/users/jkmalex",
-                    "id": "jkmalex",
-                    "type": "user",
-                    "uri": "spotify:user:jkmalex"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "OTMsNGUxNjNlNDQ3ZDgwZWIxMTlmNWY3NzkyZjQ3YjJhN2EzMjdlNTMzZA==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/6pXOcc08c8W83gq6BFbS3w/tracks",
-                    "total": 90
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:6pXOcc08c8W83gq6BFbS3w"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/5aHiKtI1ItMjIOq1M8mwkI"
-                },
-                "href": "https://api.spotify.com/v1/playlists/5aHiKtI1ItMjIOq1M8mwkI",
-                "id": "5aHiKtI1ItMjIOq1M8mwkI",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731a7a956544a56923d479d85fab67616d0000b2734a68558620d1f87484e8af1aab67616d0000b273540fc1d083eac5bcff8dad21ab67616d0000b273d7cd5c064f454d4ce951c604",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731a7a956544a56923d479d85fab67616d0000b2734a68558620d1f87484e8af1aab67616d0000b273540fc1d083eac5bcff8dad21ab67616d0000b273d7cd5c064f454d4ce951c604",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731a7a956544a56923d479d85fab67616d0000b2734a68558620d1f87484e8af1aab67616d0000b273540fc1d083eac5bcff8dad21ab67616d0000b273d7cd5c064f454d4ce951c604",
-                        "width": 60
-                    }
-                ],
-                "name": "Slow Dances and Country Romances 🐴",
-                "owner": {
-                    "display_name": "Anna Hammill",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/annah0810"
-                    },
-                    "href": "https://api.spotify.com/v1/users/annah0810",
-                    "id": "annah0810",
-                    "type": "user",
-                    "uri": "spotify:user:annah0810"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "NTIsMzVjZTlhNGJiMjhkZjRmMTU0MDYxMmFmZDQwYWM4YTg1OTk5YTA4YQ==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/5aHiKtI1ItMjIOq1M8mwkI/tracks",
+                    "href": "https://api.spotify.com/v1/playlists/29g4GRKgZ6YaHjS7T4He1G/tracks",
                     "total": 25
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:5aHiKtI1ItMjIOq1M8mwkI"
+                "uri": "spotify:playlist:29g4GRKgZ6YaHjS7T4He1G"
+            },
+            {
+                "collaborative": false,
+                "description": "i should be studying rn lol",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/6thisu4XBFgHe4HEF5Dg9x"
+                },
+                "href": "https://api.spotify.com/v1/playlists/6thisu4XBFgHe4HEF5Dg9x",
+                "id": "6thisu4XBFgHe4HEF5Dg9x",
+                "images": [
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67706c0000da84774b3ef32df29a320ab51845",
+                        "width": 300
+                    }
+                ],
+                "name": "Lofi Hip-Hop Romance <3",
+                "owner": {
+                    "display_name": "Triston06",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/nunkzlbb5rowmlwsk5u5dhy9a"
+                    },
+                    "href": "https://api.spotify.com/v1/users/nunkzlbb5rowmlwsk5u5dhy9a",
+                    "id": "nunkzlbb5rowmlwsk5u5dhy9a",
+                    "type": "user",
+                    "uri": "spotify:user:nunkzlbb5rowmlwsk5u5dhy9a"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTUyLGFjNDBkYjFhYTVlZmQ1MTBmNTQwNzk4ZTg0ZDVlZTQ0Yzg0MjA0NjY=",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/6thisu4XBFgHe4HEF5Dg9x/tracks",
+                    "total": 145
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:6thisu4XBFgHe4HEF5Dg9x"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/0W4z7zmrSHTMWaED3mtkO2"
+                    "spotify": "https://open.spotify.com/playlist/3n4SQyVav8NlopTsD2mM2x"
                 },
-                "href": "https://api.spotify.com/v1/playlists/0W4z7zmrSHTMWaED3mtkO2",
-                "id": "0W4z7zmrSHTMWaED3mtkO2",
+                "href": "https://api.spotify.com/v1/playlists/3n4SQyVav8NlopTsD2mM2x",
+                "id": "3n4SQyVav8NlopTsD2mM2x",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27303c4f794113255be4038e45dab67616d0000b27316461ddea4dfcc3bef9d7ef8ab67616d0000b273606c346e7888593b3b161c58ab67616d0000b273ec1050dcd581e8deb71d16ea",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273365b3fb800c19f7ff72602daab67616d0000b273734efb1df1c29f55b888c844ab67616d0000b273ad198c2dfdaf6b7fdc460df7ab67616d0000b273bc21c98980f5072df85bf17d",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27303c4f794113255be4038e45dab67616d0000b27316461ddea4dfcc3bef9d7ef8ab67616d0000b273606c346e7888593b3b161c58ab67616d0000b273ec1050dcd581e8deb71d16ea",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273365b3fb800c19f7ff72602daab67616d0000b273734efb1df1c29f55b888c844ab67616d0000b273ad198c2dfdaf6b7fdc460df7ab67616d0000b273bc21c98980f5072df85bf17d",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27303c4f794113255be4038e45dab67616d0000b27316461ddea4dfcc3bef9d7ef8ab67616d0000b273606c346e7888593b3b161c58ab67616d0000b273ec1050dcd581e8deb71d16ea",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273365b3fb800c19f7ff72602daab67616d0000b273734efb1df1c29f55b888c844ab67616d0000b273ad198c2dfdaf6b7fdc460df7ab67616d0000b273bc21c98980f5072df85bf17d",
                         "width": 60
                     }
                 ],
-                "name": "Country romance",
+                "name": "Hip Hop Romance",
                 "owner": {
-                    "display_name": "Dan Foltz III",
+                    "display_name": "Christian Ma",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/1259876525"
+                        "spotify": "https://open.spotify.com/user/christianmayalasso"
                     },
-                    "href": "https://api.spotify.com/v1/users/1259876525",
-                    "id": "1259876525",
+                    "href": "https://api.spotify.com/v1/users/christianmayalasso",
+                    "id": "christianmayalasso",
                     "type": "user",
-                    "uri": "spotify:user:1259876525"
+                    "uri": "spotify:user:christianmayalasso"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "NzksMGExNTlkYzgxNTkzMmVhM2Y1ZDljYWI2ZGYyYTZhNWU1YmJjYjZkZA==",
+                "snapshot_id": "NzAsN2ViNGVjZWIzZDg2OGJlYmFlMzMyYjI5MWNjNDhiMTcxZDc5ZmZmYg==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/0W4z7zmrSHTMWaED3mtkO2/tracks",
-                    "total": 76
+                    "href": "https://api.spotify.com/v1/playlists/3n4SQyVav8NlopTsD2mM2x/tracks",
+                    "total": 65
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:0W4z7zmrSHTMWaED3mtkO2"
+                "uri": "spotify:playlist:3n4SQyVav8NlopTsD2mM2x"
             },
             {
                 "collaborative": false,
-                "description": "",
+                "description": "Alternative, Blues, Easy Listening, Electronica, Hip Hop, Pop, Retro, Romance, &amp; Singer-Songwriter.",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/18HU4WP6JpSPODQvnQRgBx"
+                    "spotify": "https://open.spotify.com/playlist/1Mtmp9r21D9P1Uv1JeD2ez"
                 },
-                "href": "https://api.spotify.com/v1/playlists/18HU4WP6JpSPODQvnQRgBx",
-                "id": "18HU4WP6JpSPODQvnQRgBx",
+                "href": "https://api.spotify.com/v1/playlists/1Mtmp9r21D9P1Uv1JeD2ez",
+                "id": "1Mtmp9r21D9P1Uv1JeD2ez",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273430d5c6d82775b1c98e52b55ab67616d0000b27382abc8986726acbd00d434e1ab67616d0000b273acf99661b45380007ad598cbab67616d0000b273b6e40fe3bf6d49b6ef852c79",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273106fa02aaa287ec63af85aaeab67616d0000b27337f6fcbee30fd4020bce5633ab67616d0000b2735368927fb8d27dd4caf15468ab67616d0000b273b5fb22949f1eb233aa6b44f9",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273430d5c6d82775b1c98e52b55ab67616d0000b27382abc8986726acbd00d434e1ab67616d0000b273acf99661b45380007ad598cbab67616d0000b273b6e40fe3bf6d49b6ef852c79",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273106fa02aaa287ec63af85aaeab67616d0000b27337f6fcbee30fd4020bce5633ab67616d0000b2735368927fb8d27dd4caf15468ab67616d0000b273b5fb22949f1eb233aa6b44f9",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273430d5c6d82775b1c98e52b55ab67616d0000b27382abc8986726acbd00d434e1ab67616d0000b273acf99661b45380007ad598cbab67616d0000b273b6e40fe3bf6d49b6ef852c79",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273106fa02aaa287ec63af85aaeab67616d0000b27337f6fcbee30fd4020bce5633ab67616d0000b2735368927fb8d27dd4caf15468ab67616d0000b273b5fb22949f1eb233aa6b44f9",
                         "width": 60
                     }
                 ],
-                "name": "Country Romance",
+                "name": "The Sims 4 Songs",
                 "owner": {
-                    "display_name": "cassidy1017",
+                    "display_name": "jillian24k",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/cassidy1017"
+                        "spotify": "https://open.spotify.com/user/jillian24k"
                     },
-                    "href": "https://api.spotify.com/v1/users/cassidy1017",
-                    "id": "cassidy1017",
+                    "href": "https://api.spotify.com/v1/users/jillian24k",
+                    "id": "jillian24k",
                     "type": "user",
-                    "uri": "spotify:user:cassidy1017"
+                    "uri": "spotify:user:jillian24k"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "NzcsNmVmMTk2YjhlNzY2YTFkYjg5ZGRjODIxNGRmODlhNjI5MTQ3MWEyMQ==",
+                "snapshot_id": "MjksODNhZTQxMmE3NGU2ZDAwZjcyNWRjMzdmYzI0OGIxYmE0ODVkZjE3NA==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/18HU4WP6JpSPODQvnQRgBx/tracks",
-                    "total": 46
+                    "href": "https://api.spotify.com/v1/playlists/1Mtmp9r21D9P1Uv1JeD2ez/tracks",
+                    "total": 19
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:18HU4WP6JpSPODQvnQRgBx"
+                "uri": "spotify:playlist:1Mtmp9r21D9P1Uv1JeD2ez"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/7EGTDaYs04StyLVqWujURP"
+                    "spotify": "https://open.spotify.com/playlist/6NC7qqZxkm8poFWATKbJDM"
                 },
-                "href": "https://api.spotify.com/v1/playlists/7EGTDaYs04StyLVqWujURP",
-                "id": "7EGTDaYs04StyLVqWujURP",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27322a8fefd2696917c8767df7aab67616d0000b2736367b5d1f85d78afb8b14523ab67616d0000b273d241324e9e9f14f83f293c5aab67616d0000b273e4ed191be04ba0e4253c77f4",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27322a8fefd2696917c8767df7aab67616d0000b2736367b5d1f85d78afb8b14523ab67616d0000b273d241324e9e9f14f83f293c5aab67616d0000b273e4ed191be04ba0e4253c77f4",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27322a8fefd2696917c8767df7aab67616d0000b2736367b5d1f85d78afb8b14523ab67616d0000b273d241324e9e9f14f83f293c5aab67616d0000b273e4ed191be04ba0e4253c77f4",
-                        "width": 60
-                    }
-                ],
-                "name": "Country romance",
-                "owner": {
-                    "display_name": "Amanda Watkins",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/12175991361"
-                    },
-                    "href": "https://api.spotify.com/v1/users/12175991361",
-                    "id": "12175991361",
-                    "type": "user",
-                    "uri": "spotify:user:12175991361"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "NjcsZmIxNzhiYWQ5ZDY3NzI4NzRhZTBiNWY2ZWZlODc3NDI2M2Y1YzIzZA==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/7EGTDaYs04StyLVqWujURP/tracks",
-                    "total": 44
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:7EGTDaYs04StyLVqWujURP"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/70xwu2I74ZYcKpx8DkBSkd"
-                },
-                "href": "https://api.spotify.com/v1/playlists/70xwu2I74ZYcKpx8DkBSkd",
-                "id": "70xwu2I74ZYcKpx8DkBSkd",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27306b42768ebe736eec21336eaab67616d0000b27314ced9c374e04abd08e1c9f6ab67616d0000b2736f2d94a29288aa2f8b2ebd39ab67616d0000b2736ff51aa96f5ff021238afd27",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27306b42768ebe736eec21336eaab67616d0000b27314ced9c374e04abd08e1c9f6ab67616d0000b2736f2d94a29288aa2f8b2ebd39ab67616d0000b2736ff51aa96f5ff021238afd27",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27306b42768ebe736eec21336eaab67616d0000b27314ced9c374e04abd08e1c9f6ab67616d0000b2736f2d94a29288aa2f8b2ebd39ab67616d0000b2736ff51aa96f5ff021238afd27",
-                        "width": 60
-                    }
-                ],
-                "name": "G. Acustic/Romance/Country",
-                "owner": {
-                    "display_name": "Greta Morra",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/1185086699"
-                    },
-                    "href": "https://api.spotify.com/v1/users/1185086699",
-                    "id": "1185086699",
-                    "type": "user",
-                    "uri": "spotify:user:1185086699"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "NzksZTQ5OTc5NWZhODJhYzY4NzljMGVmYThkODM1OWMxMDg4YmQ1ZWUzNg==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/70xwu2I74ZYcKpx8DkBSkd/tracks",
-                    "total": 77
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:70xwu2I74ZYcKpx8DkBSkd"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/2QgfgKvWZRIqFAawee9To1"
-                },
-                "href": "https://api.spotify.com/v1/playlists/2QgfgKvWZRIqFAawee9To1",
-                "id": "2QgfgKvWZRIqFAawee9To1",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731789c91cbbbf011c9d6bfa8eab67616d0000b2732e1d87020512fb7380a28e2aab67616d0000b27363b3168c1970294e9ce5c415ab67616d0000b273a3a6fe9a1bd488a182711252",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731789c91cbbbf011c9d6bfa8eab67616d0000b2732e1d87020512fb7380a28e2aab67616d0000b27363b3168c1970294e9ce5c415ab67616d0000b273a3a6fe9a1bd488a182711252",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731789c91cbbbf011c9d6bfa8eab67616d0000b2732e1d87020512fb7380a28e2aab67616d0000b27363b3168c1970294e9ce5c415ab67616d0000b273a3a6fe9a1bd488a182711252",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance",
-                "owner": {
-                    "display_name": "212ah2lr54itsdw7knu7wd3gy",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/212ah2lr54itsdw7knu7wd3gy"
-                    },
-                    "href": "https://api.spotify.com/v1/users/212ah2lr54itsdw7knu7wd3gy",
-                    "id": "212ah2lr54itsdw7knu7wd3gy",
-                    "type": "user",
-                    "uri": "spotify:user:212ah2lr54itsdw7knu7wd3gy"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTU1LGEzNjcwOWIyNThkOWRjNmVjMWZlYmE5OTgzZTczMGQ1NzcyNmIxM2Q=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/2QgfgKvWZRIqFAawee9To1/tracks",
-                    "total": 150
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:2QgfgKvWZRIqFAawee9To1"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/3yu7x3GqqnrKAVsWEqKHRA"
-                },
-                "href": "https://api.spotify.com/v1/playlists/3yu7x3GqqnrKAVsWEqKHRA",
-                "id": "3yu7x3GqqnrKAVsWEqKHRA",
+                "href": "https://api.spotify.com/v1/playlists/6NC7qqZxkm8poFWATKbJDM",
+                "id": "6NC7qqZxkm8poFWATKbJDM",
                 "images": [
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67706c0000da844de695672a4695cdb233e232",
+                        "url": "https://i.scdn.co/image/ab67706c0000da8490594978860fa0b9cc3d626a",
                         "width": 300
                     }
                 ],
-                "name": "Country romance",
+                "name": "Hip Hop Romance",
                 "owner": {
-                    "display_name": "Cecilia Enström",
+                    "display_name": "robsonlucio29",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/rosalill2004"
+                        "spotify": "https://open.spotify.com/user/robsonlucio29"
                     },
-                    "href": "https://api.spotify.com/v1/users/rosalill2004",
-                    "id": "rosalill2004",
+                    "href": "https://api.spotify.com/v1/users/robsonlucio29",
+                    "id": "robsonlucio29",
                     "type": "user",
-                    "uri": "spotify:user:rosalill2004"
+                    "uri": "spotify:user:robsonlucio29"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "NjYsMGMwMWE2NDIzMjMxNGJkMGUyMDg5NTM5OTc5Mzc3MGUxMWY3YTQxZA==",
+                "snapshot_id": "MTYsMTBhMDViNTQ0N2ZlNTViNTE4NjNkMGNmYzQxMDA4MmU5NDIyZjdmZA==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/3yu7x3GqqnrKAVsWEqKHRA/tracks",
-                    "total": 38
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:3yu7x3GqqnrKAVsWEqKHRA"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/4BxXkRXuGmQ5GkBz3sRfLh"
-                },
-                "href": "https://api.spotify.com/v1/playlists/4BxXkRXuGmQ5GkBz3sRfLh",
-                "id": "4BxXkRXuGmQ5GkBz3sRfLh",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732596ef275465b0aaf39853a1ab67616d0000b2733bcc42fdc5fd354a3e58a03cab67616d0000b273db3f7294d4bfadae81f77b38ab67616d0000b273facea103c5c5532cd4a30b10",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732596ef275465b0aaf39853a1ab67616d0000b2733bcc42fdc5fd354a3e58a03cab67616d0000b273db3f7294d4bfadae81f77b38ab67616d0000b273facea103c5c5532cd4a30b10",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732596ef275465b0aaf39853a1ab67616d0000b2733bcc42fdc5fd354a3e58a03cab67616d0000b273db3f7294d4bfadae81f77b38ab67616d0000b273facea103c5c5532cd4a30b10",
-                        "width": 60
-                    }
-                ],
-                "name": "sweet country romance and love",
-                "owner": {
-                    "display_name": "5stringandtenor",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/5stringandtenor"
-                    },
-                    "href": "https://api.spotify.com/v1/users/5stringandtenor",
-                    "id": "5stringandtenor",
-                    "type": "user",
-                    "uri": "spotify:user:5stringandtenor"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTAxLGMwNzNmYzFkZTRmYzAzYTExYTA0ODQ3MDNkMmQ2OTg1YTk4MWJkN2U=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/4BxXkRXuGmQ5GkBz3sRfLh/tracks",
-                    "total": 94
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:4BxXkRXuGmQ5GkBz3sRfLh"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/6MOxfhrl6O7DsKjiL6WgrI"
-                },
-                "href": "https://api.spotify.com/v1/playlists/6MOxfhrl6O7DsKjiL6WgrI",
-                "id": "6MOxfhrl6O7DsKjiL6WgrI",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2735acf3c8e7f393f93b38d6bcaab67616d0000b2735ee2cd4899ef8f4a56513dc4ab67616d0000b27389ecea735f5765f16d3fd07dab67616d0000b273d2993421bef048e835974055",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2735acf3c8e7f393f93b38d6bcaab67616d0000b2735ee2cd4899ef8f4a56513dc4ab67616d0000b27389ecea735f5765f16d3fd07dab67616d0000b273d2993421bef048e835974055",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2735acf3c8e7f393f93b38d6bcaab67616d0000b2735ee2cd4899ef8f4a56513dc4ab67616d0000b27389ecea735f5765f16d3fd07dab67616d0000b273d2993421bef048e835974055",
-                        "width": 60
-                    }
-                ],
-                "name": "COUNTRY ROMANCE",
-                "owner": {
-                    "display_name": "kydfree96",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/kydfree96"
-                    },
-                    "href": "https://api.spotify.com/v1/users/kydfree96",
-                    "id": "kydfree96",
-                    "type": "user",
-                    "uri": "spotify:user:kydfree96"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTYsN2Y0YjM0MjBhMWQxYjY2MGVlNTdlZWM4ZGI3MWE1MGFlNzM5OTE2Mg==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/6MOxfhrl6O7DsKjiL6WgrI/tracks",
-                    "total": 418
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:6MOxfhrl6O7DsKjiL6WgrI"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/6HlCWmVFO4aUPzzFzuBhEn"
-                },
-                "href": "https://api.spotify.com/v1/playlists/6HlCWmVFO4aUPzzFzuBhEn",
-                "id": "6HlCWmVFO4aUPzzFzuBhEn",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731736bda7a710514bcce25194ab67616d0000b273a2254a9b3748f372b52b58afab67616d0000b273c7ee084acfc2d7ca0b112b5cab67616d0000b273ccba76fad1c624c09e72bc78",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731736bda7a710514bcce25194ab67616d0000b273a2254a9b3748f372b52b58afab67616d0000b273c7ee084acfc2d7ca0b112b5cab67616d0000b273ccba76fad1c624c09e72bc78",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731736bda7a710514bcce25194ab67616d0000b273a2254a9b3748f372b52b58afab67616d0000b273c7ee084acfc2d7ca0b112b5cab67616d0000b273ccba76fad1c624c09e72bc78",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance ",
-                "owner": {
-                    "display_name": "Danaa Purkiss",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/22ckft37aaxt7g2k7f3jofmzi"
-                    },
-                    "href": "https://api.spotify.com/v1/users/22ckft37aaxt7g2k7f3jofmzi",
-                    "id": "22ckft37aaxt7g2k7f3jofmzi",
-                    "type": "user",
-                    "uri": "spotify:user:22ckft37aaxt7g2k7f3jofmzi"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "ODMsNDA2NTJjNThjYzNhNjMwMmFlZDI5ZDMzZWQ2NjE4ZDQ5NzQ4OTgyNQ==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/6HlCWmVFO4aUPzzFzuBhEn/tracks",
-                    "total": 80
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:6HlCWmVFO4aUPzzFzuBhEn"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/5k5cEKYqN3DZzv8FVNj57F"
-                },
-                "href": "https://api.spotify.com/v1/playlists/5k5cEKYqN3DZzv8FVNj57F",
-                "id": "5k5cEKYqN3DZzv8FVNj57F",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27341d60c90951cdecd05abfbe6ab67616d0000b27379da8e380a6d4801cead56a4ab67616d0000b273eb0effdf2f8ead228b9a62f2ab67616d0000b273efa58e65fc9003282883ac51",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27341d60c90951cdecd05abfbe6ab67616d0000b27379da8e380a6d4801cead56a4ab67616d0000b273eb0effdf2f8ead228b9a62f2ab67616d0000b273efa58e65fc9003282883ac51",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27341d60c90951cdecd05abfbe6ab67616d0000b27379da8e380a6d4801cead56a4ab67616d0000b273eb0effdf2f8ead228b9a62f2ab67616d0000b273efa58e65fc9003282883ac51",
-                        "width": 60
-                    }
-                ],
-                "name": "Country,romance...",
-                "owner": {
-                    "display_name": "Tutu",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/31mngmanwwqabz7tf5hxqqcm6zjy"
-                    },
-                    "href": "https://api.spotify.com/v1/users/31mngmanwwqabz7tf5hxqqcm6zjy",
-                    "id": "31mngmanwwqabz7tf5hxqqcm6zjy",
-                    "type": "user",
-                    "uri": "spotify:user:31mngmanwwqabz7tf5hxqqcm6zjy"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MzAsNWFiZjc3ZmNmN2ZiZmQwMmE3MzJlNDM2ZGU1MzM4YjAwODgxM2UyNw==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/5k5cEKYqN3DZzv8FVNj57F/tracks",
+                    "href": "https://api.spotify.com/v1/playlists/6NC7qqZxkm8poFWATKbJDM/tracks",
                     "total": 13
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:5k5cEKYqN3DZzv8FVNj57F"
+                "uri": "spotify:playlist:6NC7qqZxkm8poFWATKbJDM"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/5A6QyMTA1cuORgqtojra4K"
+                    "spotify": "https://open.spotify.com/playlist/0jjA4ecB6WBICAhWal6OBR"
                 },
-                "href": "https://api.spotify.com/v1/playlists/5A6QyMTA1cuORgqtojra4K",
-                "id": "5A6QyMTA1cuORgqtojra4K",
+                "href": "https://api.spotify.com/v1/playlists/0jjA4ecB6WBICAhWal6OBR",
+                "id": "0jjA4ecB6WBICAhWal6OBR",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730601ae73fbc9a0d2a8f8721aab67616d0000b273b7578013decfa174e30dc298ab67616d0000b273c7ee084acfc2d7ca0b112b5cab67616d0000b273e0c9746dcc6cf834f5e3b7ac",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27329a2a1ac4082a2f566cbbea7ab67616d0000b2733b2685cd53ebdc34b1a3edd5ab67616d0000b27381017a7c9d7bf8bfb168ea86ab67616d0000b273be0bd6b1022a52b78d752e67",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730601ae73fbc9a0d2a8f8721aab67616d0000b273b7578013decfa174e30dc298ab67616d0000b273c7ee084acfc2d7ca0b112b5cab67616d0000b273e0c9746dcc6cf834f5e3b7ac",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27329a2a1ac4082a2f566cbbea7ab67616d0000b2733b2685cd53ebdc34b1a3edd5ab67616d0000b27381017a7c9d7bf8bfb168ea86ab67616d0000b273be0bd6b1022a52b78d752e67",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730601ae73fbc9a0d2a8f8721aab67616d0000b273b7578013decfa174e30dc298ab67616d0000b273c7ee084acfc2d7ca0b112b5cab67616d0000b273e0c9746dcc6cf834f5e3b7ac",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27329a2a1ac4082a2f566cbbea7ab67616d0000b2733b2685cd53ebdc34b1a3edd5ab67616d0000b27381017a7c9d7bf8bfb168ea86ab67616d0000b273be0bd6b1022a52b78d752e67",
                         "width": 60
                     }
                 ],
-                "name": "Country romance",
+                "name": "Hip Hop / Romance)",
                 "owner": {
-                    "display_name": "Aly.Sch",
+                    "display_name": "Simmonsfunkone",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/uc0x1y71ixj6vsw9gw542w5wq"
+                        "spotify": "https://open.spotify.com/user/pb33kcwd1zibidgf16m2l60g2"
                     },
-                    "href": "https://api.spotify.com/v1/users/uc0x1y71ixj6vsw9gw542w5wq",
-                    "id": "uc0x1y71ixj6vsw9gw542w5wq",
+                    "href": "https://api.spotify.com/v1/users/pb33kcwd1zibidgf16m2l60g2",
+                    "id": "pb33kcwd1zibidgf16m2l60g2",
                     "type": "user",
-                    "uri": "spotify:user:uc0x1y71ixj6vsw9gw542w5wq"
+                    "uri": "spotify:user:pb33kcwd1zibidgf16m2l60g2"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "MjI1LGZjNTM2OWFkOGMxN2QzYzJlYzI2N2Q2MmE3ODY4NTJkM2U4ZjdjMTM=",
+                "snapshot_id": "MTgsM2IzYTZhZDJmYmM5ODFkMDg1MGMzMzJjZWM4MjNhZWFmMDE4NmVkMg==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/5A6QyMTA1cuORgqtojra4K/tracks",
-                    "total": 217
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:5A6QyMTA1cuORgqtojra4K"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/1CuOeraSMyabpzjgz7UbF4"
-                },
-                "href": "https://api.spotify.com/v1/playlists/1CuOeraSMyabpzjgz7UbF4",
-                "id": "1CuOeraSMyabpzjgz7UbF4",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2734030bcd7ed0469896d86c3b2ab67616d0000b273a95970a35bc41a2b46e60567ab67616d0000b273f4adbbdcd39b09e5f0b9e03eab67616d0000b273f5e5750eac36d41752699e42",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2734030bcd7ed0469896d86c3b2ab67616d0000b273a95970a35bc41a2b46e60567ab67616d0000b273f4adbbdcd39b09e5f0b9e03eab67616d0000b273f5e5750eac36d41752699e42",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2734030bcd7ed0469896d86c3b2ab67616d0000b273a95970a35bc41a2b46e60567ab67616d0000b273f4adbbdcd39b09e5f0b9e03eab67616d0000b273f5e5750eac36d41752699e42",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance",
-                "owner": {
-                    "display_name": "2cgjhdb77r7nvzd9g56096ihm",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/2cgjhdb77r7nvzd9g56096ihm"
-                    },
-                    "href": "https://api.spotify.com/v1/users/2cgjhdb77r7nvzd9g56096ihm",
-                    "id": "2cgjhdb77r7nvzd9g56096ihm",
-                    "type": "user",
-                    "uri": "spotify:user:2cgjhdb77r7nvzd9g56096ihm"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "NjUsNTFiYTdlYzNiNjllMWFjMmU1MTU2OGVmNmM0YzEzNjczZjBjNjYzYw==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/1CuOeraSMyabpzjgz7UbF4/tracks",
-                    "total": 62
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:1CuOeraSMyabpzjgz7UbF4"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/7ozLOAryohhwAaSti0DusE"
-                },
-                "href": "https://api.spotify.com/v1/playlists/7ozLOAryohhwAaSti0DusE",
-                "id": "7ozLOAryohhwAaSti0DusE",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2734d52cc39e23fb87f05f6731eab67616d0000b27378e026ca0b2c78c530fa05b0ab67616d0000b273b662d944e79ac6ad388db6a0ab67616d0000b273c1dfda1b94b3db5bcdeabf0d",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2734d52cc39e23fb87f05f6731eab67616d0000b27378e026ca0b2c78c530fa05b0ab67616d0000b273b662d944e79ac6ad388db6a0ab67616d0000b273c1dfda1b94b3db5bcdeabf0d",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2734d52cc39e23fb87f05f6731eab67616d0000b27378e026ca0b2c78c530fa05b0ab67616d0000b273b662d944e79ac6ad388db6a0ab67616d0000b273c1dfda1b94b3db5bcdeabf0d",
-                        "width": 60
-                    }
-                ],
-                "name": "🌹Country Romance🌹",
-                "owner": {
-                    "display_name": "Chase M Carlson",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/chasermcarlson"
-                    },
-                    "href": "https://api.spotify.com/v1/users/chasermcarlson",
-                    "id": "chasermcarlson",
-                    "type": "user",
-                    "uri": "spotify:user:chasermcarlson"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "NDUsZmVjMDIzOWVlNGRjYmY2MTgxMWM0NzYxODMzNmY2MTM1NTU5NzhkNA==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/7ozLOAryohhwAaSti0DusE/tracks",
-                    "total": 39
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:7ozLOAryohhwAaSti0DusE"
-            },
-            {
-                "collaborative": false,
-                "description": "",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/5vV6lYgcejE7qRMCsWNRji"
-                },
-                "href": "https://api.spotify.com/v1/playlists/5vV6lYgcejE7qRMCsWNRji",
-                "id": "5vV6lYgcejE7qRMCsWNRji",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27326f28963de417e3dfdbbf648ab67616d0000b2732c78919651df7e2c786df5cbab67616d0000b2735e43df674e251ab16cae8031ab67616d0000b273b2145bcb28fd6dbaa1e44a83",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27326f28963de417e3dfdbbf648ab67616d0000b2732c78919651df7e2c786df5cbab67616d0000b2735e43df674e251ab16cae8031ab67616d0000b273b2145bcb28fd6dbaa1e44a83",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27326f28963de417e3dfdbbf648ab67616d0000b2732c78919651df7e2c786df5cbab67616d0000b2735e43df674e251ab16cae8031ab67616d0000b273b2145bcb28fd6dbaa1e44a83",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance & Whiskey",
-                "owner": {
-                    "display_name": "lewiskathryn",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/lewiskathryn"
-                    },
-                    "href": "https://api.spotify.com/v1/users/lewiskathryn",
-                    "id": "lewiskathryn",
-                    "type": "user",
-                    "uri": "spotify:user:lewiskathryn"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MTM1LDIxYTY0ZjhmY2Q5NjM4ODMzMDRmN2FjOTgxMDViNzQ4ZjUxYTI3NjA=",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/5vV6lYgcejE7qRMCsWNRji/tracks",
-                    "total": 134
-                },
-                "type": "playlist",
-                "uri": "spotify:playlist:5vV6lYgcejE7qRMCsWNRji"
-            },
-            {
-                "collaborative": false,
-                "description": "Ease yourself and your loved one, with these romantic country tracks; handpicked for you. Good for anniversary, Surprise Evening, Dinner Plans, Long Drives ets.",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/29oDqdNYuiwQ8uVdPI4MKb"
-                },
-                "href": "https://api.spotify.com/v1/playlists/29oDqdNYuiwQ8uVdPI4MKb",
-                "id": "29oDqdNYuiwQ8uVdPI4MKb",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730601ae73fbc9a0d2a8f8721aab67616d0000b273197c43e9578765fab264c15cab67616d0000b27328d4c2a6b7aab212b04da1afab67616d0000b27380ce9ad4afccf37e169e7a8d",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730601ae73fbc9a0d2a8f8721aab67616d0000b273197c43e9578765fab264c15cab67616d0000b27328d4c2a6b7aab212b04da1afab67616d0000b27380ce9ad4afccf37e169e7a8d",
-                        "width": 300
-                    },
-                    {
-                        "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730601ae73fbc9a0d2a8f8721aab67616d0000b273197c43e9578765fab264c15cab67616d0000b27328d4c2a6b7aab212b04da1afab67616d0000b27380ce9ad4afccf37e169e7a8d",
-                        "width": 60
-                    }
-                ],
-                "name": "Country Romance",
-                "owner": {
-                    "display_name": "Amit Paul Lakra",
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/user/224c4oxbd5pp6loyjplhpwt4i"
-                    },
-                    "href": "https://api.spotify.com/v1/users/224c4oxbd5pp6loyjplhpwt4i",
-                    "id": "224c4oxbd5pp6loyjplhpwt4i",
-                    "type": "user",
-                    "uri": "spotify:user:224c4oxbd5pp6loyjplhpwt4i"
-                },
-                "primary_color": null,
-                "public": null,
-                "snapshot_id": "MjEsMGY1MDY5NjUyNDNlZDk4ODY3OTQwYWU2ODJmYjAyMzRmM2ZhNTcxYQ==",
-                "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/29oDqdNYuiwQ8uVdPI4MKb/tracks",
+                    "href": "https://api.spotify.com/v1/playlists/0jjA4ecB6WBICAhWal6OBR/tracks",
                     "total": 15
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:29oDqdNYuiwQ8uVdPI4MKb"
+                "uri": "spotify:playlist:0jjA4ecB6WBICAhWal6OBR"
+            },
+            {
+                "collaborative": false,
+                "description": "So sweet &amp; so smooth Baby ;-)",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/5yuyLs7stoIKDutnx2JdmT"
+                },
+                "href": "https://api.spotify.com/v1/playlists/5yuyLs7stoIKDutnx2JdmT",
+                "id": "5yuyLs7stoIKDutnx2JdmT",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273484d121f0e2d2caf87d5d10bab67616d0000b2735694163d7c4ab48251e9b57cab67616d0000b2736a45d20e414fbc456ecea553ab67616d0000b273a8b9f97b9ea065b9a857e93f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273484d121f0e2d2caf87d5d10bab67616d0000b2735694163d7c4ab48251e9b57cab67616d0000b2736a45d20e414fbc456ecea553ab67616d0000b273a8b9f97b9ea065b9a857e93f",
+                        "width": 300
+                    },
+                    {
+                        "height": 60,
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273484d121f0e2d2caf87d5d10bab67616d0000b2735694163d7c4ab48251e9b57cab67616d0000b2736a45d20e414fbc456ecea553ab67616d0000b273a8b9f97b9ea065b9a857e93f",
+                        "width": 60
+                    }
+                ],
+                "name": "Hip Hop Romance",
+                "owner": {
+                    "display_name": "Andre",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/8r4rv4hc9dyigxvxo9qa6ub87"
+                    },
+                    "href": "https://api.spotify.com/v1/users/8r4rv4hc9dyigxvxo9qa6ub87",
+                    "id": "8r4rv4hc9dyigxvxo9qa6ub87",
+                    "type": "user",
+                    "uri": "spotify:user:8r4rv4hc9dyigxvxo9qa6ub87"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "NDEsOTQ5YTQxNTE2NTNmNzA3ZDMxMzNlNDk2OWRhZThhYjYxZWYwOGFmNQ==",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/5yuyLs7stoIKDutnx2JdmT/tracks",
+                    "total": 29
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:5yuyLs7stoIKDutnx2JdmT"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/2HdkuMnjTwtDZJX02V8qAp"
+                    "spotify": "https://open.spotify.com/playlist/56fzZUdDLt1TothCvpQBMh"
                 },
-                "href": "https://api.spotify.com/v1/playlists/2HdkuMnjTwtDZJX02V8qAp",
-                "id": "2HdkuMnjTwtDZJX02V8qAp",
+                "href": "https://api.spotify.com/v1/playlists/56fzZUdDLt1TothCvpQBMh",
+                "id": "56fzZUdDLt1TothCvpQBMh",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b273148f5c0250b91887da0c5b08ab67616d0000b2735acf3c8e7f393f93b38d6bcaab67616d0000b2736a1e53f93581029f359eb7bbab67616d0000b27380d5edc0dc1edc38beb6f8a1",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2731a16a162f671e39c206dd3efab67616d0000b2736798d04ea768de6f7722b1c4ab67616d0000b27372062edb1c2405289b2f3f0bab67616d0000b27396f606b5f0b983199e149cec",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b273148f5c0250b91887da0c5b08ab67616d0000b2735acf3c8e7f393f93b38d6bcaab67616d0000b2736a1e53f93581029f359eb7bbab67616d0000b27380d5edc0dc1edc38beb6f8a1",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2731a16a162f671e39c206dd3efab67616d0000b2736798d04ea768de6f7722b1c4ab67616d0000b27372062edb1c2405289b2f3f0bab67616d0000b27396f606b5f0b983199e149cec",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b273148f5c0250b91887da0c5b08ab67616d0000b2735acf3c8e7f393f93b38d6bcaab67616d0000b2736a1e53f93581029f359eb7bbab67616d0000b27380d5edc0dc1edc38beb6f8a1",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2731a16a162f671e39c206dd3efab67616d0000b2736798d04ea768de6f7722b1c4ab67616d0000b27372062edb1c2405289b2f3f0bab67616d0000b27396f606b5f0b983199e149cec",
                         "width": 60
                     }
                 ],
-                "name": "country romance",
+                "name": "Hip Hop's Version of Romance",
                 "owner": {
-                    "display_name": "claurabeth",
+                    "display_name": "qqcolld",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/claurabeth"
+                        "spotify": "https://open.spotify.com/user/qqcolld"
                     },
-                    "href": "https://api.spotify.com/v1/users/claurabeth",
-                    "id": "claurabeth",
+                    "href": "https://api.spotify.com/v1/users/qqcolld",
+                    "id": "qqcolld",
                     "type": "user",
-                    "uri": "spotify:user:claurabeth"
+                    "uri": "spotify:user:qqcolld"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "MTcwLGNhY2JjNzkxZDExMDAzZTM5ZjFmN2E3MDY4ZTIxYzk1ZDYyMWE4ZGI=",
+                "snapshot_id": "MjcsOWRlOGQyZmJjZjg2OGU2N2E5MGQxYTVmNWE3NTM0YTkzOGI4OGMwMQ==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/2HdkuMnjTwtDZJX02V8qAp/tracks",
-                    "total": 168
+                    "href": "https://api.spotify.com/v1/playlists/56fzZUdDLt1TothCvpQBMh/tracks",
+                    "total": 24
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:2HdkuMnjTwtDZJX02V8qAp"
+                "uri": "spotify:playlist:56fzZUdDLt1TothCvpQBMh"
             },
             {
                 "collaborative": false,
                 "description": "",
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/playlist/0sSqXOJOGq19CxLBdChXRC"
+                    "spotify": "https://open.spotify.com/playlist/5wj2HJaBAHpwo1iKC565JV"
                 },
-                "href": "https://api.spotify.com/v1/playlists/0sSqXOJOGq19CxLBdChXRC",
-                "id": "0sSqXOJOGq19CxLBdChXRC",
+                "href": "https://api.spotify.com/v1/playlists/5wj2HJaBAHpwo1iKC565JV",
+                "id": "5wj2HJaBAHpwo1iKC565JV",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27352f4fc921219a8b8ca2bb27dab67616d0000b2735decba022b8829413c27fbc9ab67616d0000b27397696e218e92fa4c2640c6eeab67616d0000b273c27403cf89249371fd6af417",
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2730262c6c4ba48b91ce0a43f14ab67616d0000b2731bd61af8eb3189ccd797a463ab67616d0000b273768bc8d9f078db929dfcfbd1ab67616d0000b273e17d597d592d140c9394623d",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27352f4fc921219a8b8ca2bb27dab67616d0000b2735decba022b8829413c27fbc9ab67616d0000b27397696e218e92fa4c2640c6eeab67616d0000b273c27403cf89249371fd6af417",
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2730262c6c4ba48b91ce0a43f14ab67616d0000b2731bd61af8eb3189ccd797a463ab67616d0000b273768bc8d9f078db929dfcfbd1ab67616d0000b273e17d597d592d140c9394623d",
                         "width": 300
                     },
                     {
                         "height": 60,
-                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27352f4fc921219a8b8ca2bb27dab67616d0000b2735decba022b8829413c27fbc9ab67616d0000b27397696e218e92fa4c2640c6eeab67616d0000b273c27403cf89249371fd6af417",
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2730262c6c4ba48b91ce0a43f14ab67616d0000b2731bd61af8eb3189ccd797a463ab67616d0000b273768bc8d9f078db929dfcfbd1ab67616d0000b273e17d597d592d140c9394623d",
                         "width": 60
                     }
                 ],
-                "name": "Country romance💗🤠",
+                "name": "Old Romance Hip hop",
                 "owner": {
-                    "display_name": "Maggie Lo",
+                    "display_name": "joelbruh",
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/user/maggielo_me_lo"
+                        "spotify": "https://open.spotify.com/user/joelbruh"
                     },
-                    "href": "https://api.spotify.com/v1/users/maggielo_me_lo",
-                    "id": "maggielo_me_lo",
+                    "href": "https://api.spotify.com/v1/users/joelbruh",
+                    "id": "joelbruh",
                     "type": "user",
-                    "uri": "spotify:user:maggielo_me_lo"
+                    "uri": "spotify:user:joelbruh"
                 },
                 "primary_color": null,
                 "public": null,
-                "snapshot_id": "ODEsNjRhZWE3YWMxY2Y0YTFlMjFkMzY3ZGJlMmQ3YzAyOTA3MGVjM2M5ZA==",
+                "snapshot_id": "MzQsYzVlOTNiZWE1NGM5OTc1NzRiMmViMzI2ODNhYzYzZTljYTlmMWYxZQ==",
                 "tracks": {
-                    "href": "https://api.spotify.com/v1/playlists/0sSqXOJOGq19CxLBdChXRC/tracks",
-                    "total": 76
+                    "href": "https://api.spotify.com/v1/playlists/5wj2HJaBAHpwo1iKC565JV/tracks",
+                    "total": 31
                 },
                 "type": "playlist",
-                "uri": "spotify:playlist:0sSqXOJOGq19CxLBdChXRC"
+                "uri": "spotify:playlist:5wj2HJaBAHpwo1iKC565JV"
+            },
+            {
+                "collaborative": false,
+                "description": "Witchhouse, Eastern European hip-hop, broody romance, dystopian modernism, and gothic horror",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/4slwGfDNPgVqAOR3eHjjyh"
+                },
+                "href": "https://api.spotify.com/v1/playlists/4slwGfDNPgVqAOR3eHjjyh",
+                "id": "4slwGfDNPgVqAOR3eHjjyh",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706c0000bebb869c90020441d3b47c197095",
+                        "width": null
+                    }
+                ],
+                "name": "Reaper",
+                "owner": {
+                    "display_name": "1230836959",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/1230836959"
+                    },
+                    "href": "https://api.spotify.com/v1/users/1230836959",
+                    "id": "1230836959",
+                    "type": "user",
+                    "uri": "spotify:user:1230836959"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "Njc5LDNkZjk3YzY5N2E0MjM2MTNkN2NmYjVjNWNmNDAwOGY3NGMxZDg5NzI=",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/4slwGfDNPgVqAOR3eHjjyh/tracks",
+                    "total": 477
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:4slwGfDNPgVqAOR3eHjjyh"
+            },
+            {
+                "collaborative": false,
+                "description": "",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/0vVHx1uHTM3nSwMsNVS8wJ"
+                },
+                "href": "https://api.spotify.com/v1/playlists/0vVHx1uHTM3nSwMsNVS8wJ",
+                "id": "0vVHx1uHTM3nSwMsNVS8wJ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b2732341c852b4db72824c0e3185ab67616d0000b27347eb1a5264e96e41277bd8f4ab67616d0000b27360a98c3be4daffefe9014c7eab67616d0000b27377eaba5c1bb0fe62109bb2e5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b2732341c852b4db72824c0e3185ab67616d0000b27347eb1a5264e96e41277bd8f4ab67616d0000b27360a98c3be4daffefe9014c7eab67616d0000b27377eaba5c1bb0fe62109bb2e5",
+                        "width": 300
+                    },
+                    {
+                        "height": 60,
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b2732341c852b4db72824c0e3185ab67616d0000b27347eb1a5264e96e41277bd8f4ab67616d0000b27360a98c3be4daffefe9014c7eab67616d0000b27377eaba5c1bb0fe62109bb2e5",
+                        "width": 60
+                    }
+                ],
+                "name": "New Romance (Hip hop and r&b oldies)",
+                "owner": {
+                    "display_name": "Time Suwannalikit",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/tsuwannalikit"
+                    },
+                    "href": "https://api.spotify.com/v1/users/tsuwannalikit",
+                    "id": "tsuwannalikit",
+                    "type": "user",
+                    "uri": "spotify:user:tsuwannalikit"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTAwLGJjMzgyMWVlYjMxODlmYzlkOTRmNjk5Zjc5NzBkYmViOWExYjJlYzI=",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/0vVHx1uHTM3nSwMsNVS8wJ/tracks",
+                    "total": 41
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:0vVHx1uHTM3nSwMsNVS8wJ"
+            },
+            {
+                "collaborative": false,
+                "description": "",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/7q1LoP8lJIS3A3gL1imW6n"
+                },
+                "href": "https://api.spotify.com/v1/playlists/7q1LoP8lJIS3A3gL1imW6n",
+                "id": "7q1LoP8lJIS3A3gL1imW6n",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://mosaic.scdn.co/640/ab67616d0000b27328c517450a993c3e6c9de6b7ab67616d0000b2738781990dd0999316717b8353ab67616d0000b273a877c1422dfca3190d5d7b33ab67616d0000b273f94b2a29ccc364e8faedce10",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://mosaic.scdn.co/300/ab67616d0000b27328c517450a993c3e6c9de6b7ab67616d0000b2738781990dd0999316717b8353ab67616d0000b273a877c1422dfca3190d5d7b33ab67616d0000b273f94b2a29ccc364e8faedce10",
+                        "width": 300
+                    },
+                    {
+                        "height": 60,
+                        "url": "https://mosaic.scdn.co/60/ab67616d0000b27328c517450a993c3e6c9de6b7ab67616d0000b2738781990dd0999316717b8353ab67616d0000b273a877c1422dfca3190d5d7b33ab67616d0000b273f94b2a29ccc364e8faedce10",
+                        "width": 60
+                    }
+                ],
+                "name": "Hop hip mix  and Romance 80's 90's",
+                "owner": {
+                    "display_name": "Myllitsa Aristides",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/21ps4xpq6wg2b5llfx5chdjbq"
+                    },
+                    "href": "https://api.spotify.com/v1/users/21ps4xpq6wg2b5llfx5chdjbq",
+                    "id": "21ps4xpq6wg2b5llfx5chdjbq",
+                    "type": "user",
+                    "uri": "spotify:user:21ps4xpq6wg2b5llfx5chdjbq"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "ODgsYWMzNWZkYTIzOTQ1ZTkyNWVkOGQ3ZWRiN2Y2ZjZkMTY4YzM3MjdjOA==",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/7q1LoP8lJIS3A3gL1imW6n/tracks",
+                    "total": 34
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:7q1LoP8lJIS3A3gL1imW6n"
             }
         ],
         "limit": 50,
-        "next": "https://api.spotify.com/v1/search?query=%22country+romance%22&type=playlist&offset=50&limit=50",
+        "next": null,
         "offset": 0,
         "previous": null,
-        "total": 174
+        "total": 20
     }
 }
