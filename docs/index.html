@@ -68,19 +68,19 @@
                     <h2>Get your credentials on</h2>
                     <p>
                         The first step in gaining access to Spotify is to open a developer account. During signup, you will be asked for a website address
-                        suggesting that this is a requirement. Fortunately, this does not appear to be the case 
-                        and it accepted my submitted response of 'localhost' instead of an actual webpage
-                        and I received the needed credentials, namely 'clientId' and 'clientSecret'.
+                        suggesting that this is a requirement. In reality, this does not appear to be enforced 
+                        and the system accepted 'localhost' instead of an actual web application 
+                        returned needed credentials, namely 'clientId' and 'clientSecret'.
                         These are the keys to completing the first step of the authentification process.
             
                     </p>
 
                     <h2>Authentication</h2>
-                    <p>Spotify uses a two step process authentication process. Phase one involves turning over
-                        the developer account credentials along with some conversion between string and byte conversion 
+                    <p>Spotify uses a two step process authentication. Phase one involves turning over
+                        the developer account credentials along with conversion between string and bytes
                         which in turn produces a "token" as part of the response from the API.
                         This token gives the developer the "keys to the kingdom" for one hour after which time 
-                        it expires and one must go through the process again. For the purposes of 
+                        access expires and one must go through the process again. For the purposes of 
                         this project, every time the script runs, a new token is generated and submitted rather 
                         than setting it up on a timer to execute after expiration.
                     </p>
@@ -120,11 +120,9 @@
                          <a href="https://developer.spotify.com/documentation/web-api/reference/search/search/#writing-a-query---guidelines">here</a>.
                     </p>
                     <p> In my case, I was interested in obtaining playlists that I could in turn 
-                        loop through to pull individual song titles and information, and the code 
-                        is set up to access 50 playlists at a time and it returned over 2,000 song
-                        titles for "Country Romance". There are conditional statements to prevent 
-                        storing duplicates and the script appends
-                        all results to a CSV.
+                        loop through to pull individual song titles, and the code 
+                        is set up to access 50 playlists at a time.  The script returned over 2,000 song
+                        titles for "Country Romance" and 934 for "Hip Hop Romance" without duplicates in a CSV. 
                     </p>
             
 
